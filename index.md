@@ -1,19 +1,7 @@
 ## classification of hyperspectral reflectance imags : CHRIPS (2020)
 
-A classification method of hyperspectral reflectance images named CHRIPS (Classification
-2 of Hyperspectral Reflectance Images with Physical and Statistical criteria) is presented. This method
-3 aims at classifying each pixel from a given set of thirteen classes: unidentified dark surface, water,
-4 plastic matter, carbonate, clay, vegetation (dark green, dense green, sparse green, stressed), house
-5 roof / tile, asphalt, vehicle / paint / metal surface and non-carbonated gravel. Each class is
-6 characterized by physical criteria (detection of specific absorptions or shape features) or statistical
-7 criteria (use of dedicated spectral indices) over spectral reflectance. CHRIPS input is a hyperspectral
-8 reflectance image covering the spectral range \[400-2500nm\]. The presented method has four
-9 advantages, namely: i) is robust in transfer, class identification is based on criteria that are not
-10 very sensitive to sensor type; ii) does not require training, criteria are pre-defined; iii) includes a
-11 reject class, this class reduces misclassifications; iv) high precision and recall, F1 score is generally
-12 above 0.9 in our test. As the number of classes is limited, CHRIPS could be used in combination
-13 with other classification algorithms able to process the reject class in order to decrease the number
-14 of unclassified pixels.
+A classification method of hyperspectral reflectance images named CHRIPS (Classification of Hyperspectral Reflectance Images with Physical and Statistical criteria) is presented. This method aims at classifying each pixel from a given set of thirteen classes: unidentified dark surface, water, plastic matter, carbonate, clay, vegetation (dark green, dense green, sparse green, stressed), house roof / tile, asphalt, vehicle / paint / metal surface and non-carbonated gravel. Each class is
+characterized by physical criteria (detection of specific absorptions or shape features) or statistical criteria (use of dedicated spectral indices) over spectral reflectance. CHRIPS input is a hyperspectral reflectance image covering the spectral range \[400-2500nm\]. The presented method has four advantages, namely: i) is robust in transfer, class identification is based on criteria that are not very sensitive to sensor type; ii) does not require training, criteria are pre-defined; iii) includes a reject class, this class reduces misclassifications; iv) high precision and recall, F1 score is generally above 0.9 in our test. As the number of classes is limited, CHRIPS could be used in combination with other classification algorithms able to process the reject class in order to decrease the number of unclassified pixels.
 
 Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With Physical and Statistical Criteria. Remote Sens. 2020, 12, 2335. https://doi.org/10.3390/rs12142335
 
