@@ -6,10 +6,9 @@ C'est pour bientot...
 
 <span style="color:red"> *some emphasized markdown text*</span>
 
-```diff
-+ blue
-- green
-# red
+[comment]: # (```diff)
+[comment]: # (+ blue)
+[comment]: # (- green)
 
 # Color Test Document
 
