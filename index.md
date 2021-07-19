@@ -24,10 +24,12 @@ C'est pour bientot...
   <img src="Images/AVIRIS_NG_Allemagne_img5_02_REGUL.png" width="250" /> 
 </p>
 
+img1 = "Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png"
+img3 = "Images/AVIRIS_NG_Allemagne_img5_02_REGUL.png"
 
-label 1 | label 2
+<img src=img1 width="250" /> | <img src=img2 width="250" />
 --- | ---
- <img src="Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png" width="250" /> | <img src="Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png" width="250" />
+colour | label 2
 
 
 
