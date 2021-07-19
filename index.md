@@ -8,16 +8,6 @@ Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With 
 
 # Test affichage d'image
 
-<p float="left">
-  <img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" width="250" />
-  <img src="Images/AVIRIS_NG_Allemagne_img1_02_REGUL.png" width="250" /> 
-</p>
-
-<p float="left">
-  <img src="Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png" width="250" />
-  <img src="Images/AVIRIS_NG_Allemagne_img5_02_REGUL.png" width="250" /> 
-</p>
-
 
 
 <img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" width="250" /> | <img src="Images/AVIRIS_NG_Allemagne_img1_01_CLASSIF.png" width="250" /> | <img src="Images/AVIRIS_NG_Allemagne_img1_02_REGUL.png" width="250" />
@@ -109,3 +99,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+<p float="left">
+  <img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" width="100" />
+  <img src="Images/AVIRIS_NG_Allemagne_img1_02_REGUL.png" width="100" /> 
+</p>
+
+
+
