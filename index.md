@@ -14,17 +14,15 @@ C'est pour bientot...
 
 # Test affichage d'image
 
-<img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" class="img-responsive" alt=""> </div>
-<img src="Images/AVIRIS_NG_Allemagne_img1_02_REGUL.png" class="img-responsive" alt=""> </div>
-
-<img src="Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png" class="img-responsive" alt=""> </div>
-<img src="Images/AVIRIS_NG_Allemagne_img5_02_REGUL.png" class="img-responsive" alt=""> </div>
-
 <p float="left">
-  <img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" width="100" />
-  <img src="Images/AVIRIS_NG_Allemagne_img1_02_REGUL.png" width="100" /> 
+  <img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" width="250" />
+  <img src="Images/AVIRIS_NG_Allemagne_img1_02_REGUL.png" width="250" /> 
 </p>
 
+<p float="left">
+  <img src="Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png" width="250" />
+  <img src="Images/AVIRIS_NG_Allemagne_img5_02_REGUL.png" width="250" /> 
+</p>
 
 
 ## Second Heading
