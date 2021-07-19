@@ -27,8 +27,8 @@ C'est pour bientot...
 
 
 <img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" width="250" /> | <img src="Images/AVIRIS_NG_Allemagne_img1_02_REGUL.png" width="250" /> | 
---- | ---
-:Colour image: | :Regularized classification map:
+:-: | :-:
+Colour image | Regularized classification map
 
 
 
