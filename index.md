@@ -20,10 +20,16 @@ Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With 
 
 
 
-<img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" width="250" /> | <img src="Images/AVIRIS_NG_Allemagne_img1_01_REGUL.png" width="250" /> | 
-<img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" width="250" />
-:-: | :-:
-Colour image | Regularized classification map
+<img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" width="250" /> | <img src="Images/AVIRIS_NG_Allemagne_img1_01_CLASSIF.png" width="250" /> | 
+<img src="Images/AVIRIS_NG_Allemagne_img1_02_REGUL.png" width="250" />
+:-: | :-: | :-:
+Colour image | CHRIPS classification map | Regularized classification map
+
+<img src="Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png" width="250" /> | <img src="Images/AVIRIS_NG_Allemagne_img5_01_CLASSIF.png" width="250" /> | 
+<img src="Images/AVIRIS_NG_Allemagne_img5_02_REGUL.png" width="250" />
+:-: | :-: | :-:
+Colour image | CHRIPS classification map | Regularized classification map
+
 
 
 
