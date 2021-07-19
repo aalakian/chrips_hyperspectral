@@ -25,6 +25,11 @@ This is a test to see how the colors work.
 
 ## Test tableau
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+
+
 First Header | Second Header | zzz
 ------------ | ------------- | zzz
 Content from cell 1 | Content from cell 2  | zzz
