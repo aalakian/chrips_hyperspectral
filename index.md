@@ -6,9 +6,9 @@ C'est pour bientot...
 
 <span style="color:red"> *some emphasized markdown text*</span>
 
-'''diff
- + blue
- - green
+```diff
++ blue
+- green
 
 # Color Test Document
 
