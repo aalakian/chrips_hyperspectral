@@ -23,6 +23,14 @@ This is a test to see how the colors work.
 This is a test to see how the colors work.
 
 
+##Test tableau
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+6 | 8
+
 
 
 ## Welcome to GitHub Pages
