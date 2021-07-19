@@ -27,7 +27,7 @@ C'est pour bientot...
 
 label 1 | label 2
 --- | ---
-![]("Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png") | ![]("Images/AVIRIS_NG_Allemagne_img1_02_REGUL.png")
+ <img src="Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png" width="250" /> | <img src="Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png" width="250" />
 
 
 
