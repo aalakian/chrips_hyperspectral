@@ -14,7 +14,7 @@ C'est pour bientot...
 
 # Test affichage d'image
 
-<img src="img/screenshot2.PNG" class="img-responsive" alt=""> </div>
+<img src="Hyspex_Fermat_BILATERAL.jpg" class="img-responsive" alt=""> </div>
 
 
 ## Second Heading
