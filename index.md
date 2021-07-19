@@ -6,6 +6,10 @@ C'est pour bientot...
 
 <span style="color:red"> *some emphasized markdown text*</span>
 
+````diff
++ Green Text
+- Red Text
+
 
 ## Welcome to GitHub Pages
 
