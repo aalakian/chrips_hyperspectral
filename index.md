@@ -6,19 +6,6 @@ characterized by physical criteria (detection of specific absorptions or shape f
 Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With Physical and Statistical Criteria. Remote Sens. 2020, 12, 2335. https://doi.org/10.3390/rs12142335
 
 
-
-C'est pour bientot...
-
-<span style="color:pink"> *Et pas en rose*  </span>
-
-<span style="color:red"> *some emphasized markdown text*</span>
-
-[comment]: # (```diff)
-[comment]: # (+ blue)
-[comment]: # (- green)
-
-# Color Test Document
-
 # Test affichage d'image
 
 <p float="left">
@@ -33,13 +20,27 @@ C'est pour bientot...
 
 
 
-<img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" width="250" /> | <img src="Images/AVIRIS_NG_Allemagne_img1_02_REGUL.png" width="250" /> | 
+<img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" width="250" /> | <img src="Images/AVIRIS_NG_Allemagne_img1_01_REGUL.png" width="250" /> | 
+<img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" width="250" />
 :-: | :-:
 Colour image | Regularized classification map
 
 
 
 
+
+
+C'est pour bientot...
+
+<span style="color:pink"> *Et pas en rose*  </span>
+
+<span style="color:red"> *some emphasized markdown text*</span>
+
+[comment]: # (```diff)
+[comment]: # (+ blue)
+[comment]: # (- green)
+
+# Color Test Document
 
 ## Second Heading
 
