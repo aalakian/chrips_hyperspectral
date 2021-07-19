@@ -27,7 +27,13 @@ C'est pour bientot...
 img1 = "Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png"
 img3 = "Images/AVIRIS_NG_Allemagne_img5_02_REGUL.png"
 
-<img src=img1 width="250" /> | <img src=img2 width="250" />
+const a1 = "Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png"
+const img1 = document.getElementById("image");
+img1.src = a1;
+
+<img src="" id="img1" height="150px" width ="150px">
+
+
 --- | ---
 colour | label 2
 
