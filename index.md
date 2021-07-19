@@ -1,7 +1,7 @@
 ## classification of hyperspectral reflectance imags : CHRIPS (2020)
 
 C'est pour bientot...
-<span style="color:pink"> Et pas en rose  </span>
+<span style="color:pink"> *Et pas en rose*  </span>
 
 
 
