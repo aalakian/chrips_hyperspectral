@@ -2,7 +2,7 @@
 
 C'est pour bientot...
 <span style="color:pink"> *Et pas en rose*  </span>
-
+<span style="color:red"> *some emphasized markdown text* </span>
 
 
 ## Welcome to GitHub Pages
