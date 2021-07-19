@@ -9,6 +9,7 @@ C'est pour bientot...
 ```diff
 + blue
 - green
+# red
 
 # Color Test Document
 
