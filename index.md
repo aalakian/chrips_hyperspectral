@@ -12,6 +12,11 @@ C'est pour bientot...
 
 # Color Test Document
 
+# Test affichage d'image
+
+<img src="img/screenshot2.PNG" class="img-responsive" alt=""> </div>
+
+
 ## Second Heading
 
 This is a test to see how the colors work.
@@ -29,20 +34,11 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 
-im1 | im2 | im3
------------- | ------------- | -------------
-Content from cell 1 | Content from cell 2 | Content from cell 3
 
 
 im4 | im5 | im6
 -- | -- | --
 Content from cell 1 | Content from cell 2 | Content from cell 3
-
-
-
-First Header | Second Header | Second Header
------------- | ------------- | -------------
-Content from cell 1 | Content from cell 2 | Second Header
 
 
 
