@@ -34,9 +34,8 @@ im1 | im2 | im3
 Content from cell 1 | Content from cell 2 | Content from cell 3
 
 
-
 First Header | Second Header | Second Header
------------- | ------------- | Second Header
+------------ | ------------- | -------------
 Content from cell 1 | Content from cell 2 | Second Header
 
 
