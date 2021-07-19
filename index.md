@@ -39,6 +39,7 @@ img1.src = a1;
 <img src="" id="image" height="150px" width ="150px">
 
 
+<img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" width="250" /> | <img src="Images/AVIRIS_NG_Allemagne_img1_02_REGUL.png" width="250" /> | 
 --- | ---
 colour | label 2
 
