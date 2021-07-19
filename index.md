@@ -24,14 +24,13 @@ C'est pour bientot...
   <img src="Images/AVIRIS_NG_Allemagne_img5_02_REGUL.png" width="250" /> 
 </p>
 
-img1 = "Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png"
-img3 = "Images/AVIRIS_NG_Allemagne_img5_02_REGUL.png"
+
 
 const a1 = "Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png"
-const img1 = document.getElementById("image");
+const image = document.getElementById("image");
 img1.src = a1;
 
-<img src="" id="img1" height="150px" width ="150px">
+<img src="" id="image" height="150px" width ="150px">
 
 
 --- | ---
