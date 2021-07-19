@@ -15,6 +15,8 @@ A classification method of hyperspectral reflectance images named CHRIPS (Classi
 13 with other classification algorithms able to process the reject class in order to decrease the number
 14 of unclassified pixels.
 
+Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With Physical and Statistical Criteria. Remote Sens. 2020, 12, 2335. https://doi.org/10.3390/rs12142335
+
 
 
 C'est pour bientot...
