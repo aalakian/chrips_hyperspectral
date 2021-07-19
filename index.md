@@ -23,9 +23,9 @@ This is a test to see how the colors work.
 This is a test to see how the colors work.
 
 
-##Test tableau
+## Test tableau
 
-First Header | Second Header
+First Header | Second Header | zzz
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column | 888
