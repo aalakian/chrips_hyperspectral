@@ -25,6 +25,12 @@ C'est pour bientot...
 </p>
 
 
+label 1 | label 2
+--- | ---
+![]("Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png") | ![]("Images/AVIRIS_NG_Allemagne_img1_02_REGUL.png")
+
+
+
 ## Second Heading
 
 This is a test to see how the colors work.
