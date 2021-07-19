@@ -6,7 +6,7 @@ C'est pour bientot...
 
 <span style="color:red"> *some emphasized markdown text*</span>
 
-''''diff
+'''diff
  + blue
  - green
 
