@@ -1,7 +1,7 @@
 ## classification of hyperspectral reflectance imags : CHRIPS (2020)
 
 A classification method of hyperspectral reflectance images named CHRIPS (Classification
-2 of Hyperspectral Reflectance Images with Physical and Statistical criteria) is presented. Thismethod
+2 of Hyperspectral Reflectance Images with Physical and Statistical criteria) is presented. This method
 3 aims at classifying each pixel from a given set of thirteen classes: unidentified dark surface, water,
 4 plastic matter, carbonate, clay, vegetation (dark green, dense green, sparse green, stressed), house
 5 roof / tile, asphalt, vehicle / paint / metal surface and non-carbonated gravel. Each class is
