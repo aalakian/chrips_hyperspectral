@@ -25,6 +25,12 @@ C'est pour bientot...
 </p>
 
 
+const a1 = "Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png";
+const image = document.getElementById("event-1");
+image.src = a1;
+
+<img src="" id="event-1">
+
 
 const a1 = "Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png"
 const image = document.getElementById("image");
