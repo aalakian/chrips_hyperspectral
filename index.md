@@ -14,7 +14,8 @@ C'est pour bientot...
 
 # Test affichage d'image
 
-<img src="Hyspex_Fermat_BILATERAL.jpg" class="img-responsive" alt=""> </div>
+<img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" class="img-responsive" alt=""> </div>
+<img src="Images/AVIRIS_NG_Allemagne_img1_02_REGUL.png" class="img-responsive" alt=""> </div>
 
 
 ## Second Heading
