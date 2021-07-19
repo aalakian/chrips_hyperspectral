@@ -25,23 +25,10 @@ C'est pour bientot...
 </p>
 
 
-const a1 = "Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png";
-const image = document.getElementById("event-1");
-image.src = a1;
-
-<img src="" id="event-1">
-
-
-const a1 = "Images/AVIRIS_NG_Allemagne_img5_00_IMAGE.png"
-const image = document.getElementById("image");
-img1.src = a1;
-
-<img src="" id="image" height="150px" width ="150px">
-
 
 <img src="Images/AVIRIS_NG_Allemagne_img1_00_IMAGE.png" width="250" /> | <img src="Images/AVIRIS_NG_Allemagne_img1_02_REGUL.png" width="250" /> | 
 --- | ---
-colour | label 2
+Colour image | Regularized classification map
 
 
 
