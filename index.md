@@ -5,15 +5,19 @@ characterized by physical criteria (detection of specific absorptions or shape f
 
 Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With Physical and Statistical Criteria. Remote Sens. 2020, 12, 2335. https://doi.org/10.3390/rs12142335
 
-<img src="Complements/Graphical_Abstract_CHRIPS.png" width="400" />
+<p align="center">
+  <img src="Complements/Graphical_Abstract_CHRIPS.png" width="400" />
+</p>
+
 
 
 
 
 # Test affichage d'image
 
-<img src="Complements/Legende_classif_ligne.png" width="250" />
-
+<p align="center">  
+  <img src="Complements/Legende_classif_ligne.png" width="250" />
+</p>
 
 
 **Germany - ROI 1 (542 x 862)**
