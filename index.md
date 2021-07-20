@@ -32,10 +32,14 @@ Color image | CHRIPS classification map | Regularized classification map
 
 
 **AVIRIS_AVIRIS_Hawai_img1(725 x 910)**
-<img src="Images_COULEUR/AVIRIS_AVIRIS_Hawai_img1_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_AVIRIS_Hawai_img1_00_IMAGE.png" width="250" /> | <img src="Images_REGUL/AVIRIS_AVIRIS_Hawai_img1_00_IMAGE.png" width="250" />
+<img src="Images_COULEUR/AVIRIS_AVIRIS_Hawai_img1_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_AVIRIS_Hawai_img1_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_AVIRIS_Hawai_img1_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
+**AVIRIS_Californie2_img1(670 x 835)**
+<img src="Images_COULEUR/AVIRIS_Californie2_img1_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_Californie2_img1_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_Californie2_img1_02_REGUL.png" width="250" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
 
 
 
