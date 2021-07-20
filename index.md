@@ -167,155 +167,155 @@ Color image | CHRIPS classification map | Regularized classification map
 Color image | CHRIPS classification map | Regularized classification map
 
 
-**AVIRIS_NG_Oklahoma_img1 (591 x 933)**
-<img src="Images_COULEUR/AVIRIS_NG_Oklahoma_img1_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Oklahoma_img1_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Oklahoma_img1_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+  **AVIRIS_NG_Oklahoma_img1 (591 x 933)**
+  <img src="Images_COULEUR/AVIRIS_NG_Oklahoma_img1_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Oklahoma_img1_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Oklahoma_img1_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
 
-**AVIRIS_NG_Oklahoma_img2 (596 x 993)**
-<img src="Images_COULEUR/AVIRIS_NG_Oklahoma_img2_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Oklahoma_img2_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Oklahoma_img2_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-
-
-
-**AVIRIS_NG_Alaska_img1 (609 x 962)**
-<img src="Images_COULEUR/AVIRIS_NG_Alaska_img1_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Alaska_img1_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Alaska_img1_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**AVIRIS_NG_Alaska_img2 (584 x 953)**
-<img src="Images_COULEUR/AVIRIS_NG_Alaska_img2_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Alaska_img2_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Alaska_img2_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**AVIRIS_NG_Alaska_img3 (631 x 957)**
-<img src="Images_COULEUR/AVIRIS_NG_Alaska_img3_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Alaska_img3_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Alaska_img3_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**AVIRIS_NG_Alaska_img4 (638 x 957)**
-<img src="Images_COULEUR/AVIRIS_NG_Alaska_img4_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Alaska_img4_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Alaska_img4_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**AVIRIS_NG_Alaska_img5 (627 x 935)**
-<img src="Images_COULEUR/AVIRIS_NG_Alaska_img5_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Alaska_img5_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Alaska_img5_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**AVIRIS_NG_Inde_Bengaluru_img1 (588 x 929)**
-<img src="Images_COULEUR/AVIRIS_NG_Inde_Bengaluru_img1_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_Bengaluru_img1_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_Bengaluru_img1_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**AVIRIS_NG_Inde_Bengaluru_img2 (595 x 937)**
-<img src="Images_COULEUR/AVIRIS_NG_Inde_Bengaluru_img2_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_Bengaluru_img2_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_Bengaluru_img2_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**AVIRIS_NG_Inde_Bengaluru_img3 (568 x 952)**
-<img src="Images_COULEUR/AVIRIS_NG_Inde_Bengaluru_img3_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_Bengaluru_img3_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_Bengaluru_img3_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**AVIRIS_NG_Inde_Bengaluru_img4 (597 x 936)**
-<img src="Images_COULEUR/AVIRIS_NG_Inde_Bengaluru_img4_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_Bengaluru_img4_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_Bengaluru_img4_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**AVIRIS_NG_Inde_img1 (594 x 849)**
-<img src="Images_COULEUR/AVIRIS_NG_Inde_img1_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_img1_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_img1_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**AVIRIS_NG_Inde_img2 (589 x 822)**
-<img src="Images_COULEUR/AVIRIS_NG_Inde_img2_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_img2_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_img2_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**AVIRIS_NG_Inde_img3 (608 x 861)**
-<img src="Images_COULEUR/AVIRIS_NG_Inde_img3_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_img3_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_img3_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**AVIRIS_NG_Inde_img4 (635 x 843)**
-<img src="Images_COULEUR/AVIRIS_NG_Inde_img4_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_img4_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_img4_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+  **AVIRIS_NG_Oklahoma_img2 (596 x 993)**
+  <img src="Images_COULEUR/AVIRIS_NG_Oklahoma_img2_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Oklahoma_img2_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Oklahoma_img2_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
 
 
 
-**PRISMA_CEA_Cuprite (1000 x 1000)**
-<img src="Images_COULEUR/PRISMA_CEA_Cuprite_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_CEA_Cuprite_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_CEA_Cuprite_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
 
-**PRISMA_CEA_Fos_sur_Mer (1000 x 1000)**
-<img src="Images_COULEUR/PRISMA_CEA_Fos_sur_Mer_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_CEA_Fos_sur_Mer_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_CEA_Fos_sur_Mer_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+  **AVIRIS_NG_Alaska_img1 (609 x 962)**
+  <img src="Images_COULEUR/AVIRIS_NG_Alaska_img1_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Alaska_img1_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Alaska_img1_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
 
-**PRISMA_image10_Marseille (1000 x 1000)**
-<img src="Images_COULEUR/PRISMA_image10_Marseille_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image10_Marseille_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image10_Marseille_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+  **AVIRIS_NG_Alaska_img2 (584 x 953)**
+  <img src="Images_COULEUR/AVIRIS_NG_Alaska_img2_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Alaska_img2_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Alaska_img2_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
 
-**PRISMA_image11_Australie (1000 x 1000)**
-<img src="Images_COULEUR/PRISMA_image11_Australie_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image11_Australie_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image11_Australie_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+  **AVIRIS_NG_Alaska_img3 (631 x 957)**
+  <img src="Images_COULEUR/AVIRIS_NG_Alaska_img3_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Alaska_img3_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Alaska_img3_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
 
-**PRISMA_image12_Bali (1000 x 1000)**
-<img src="Images_COULEUR/PRISMA_image12_Bali_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image12_Bali_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image12_Bali_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+  **AVIRIS_NG_Alaska_img4 (638 x 957)**
+  <img src="Images_COULEUR/AVIRIS_NG_Alaska_img4_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Alaska_img4_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Alaska_img4_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
 
-**PRISMA_image1 (1000 x 1000)**
-<img src="Images_COULEUR/PRISMA_image1_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image1_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image1_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+  **AVIRIS_NG_Alaska_img5 (627 x 935)**
+  <img src="Images_COULEUR/AVIRIS_NG_Alaska_img5_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Alaska_img5_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Alaska_img5_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
 
-**PRISMA_image2 (1000 x 1000)**
-<img src="Images_COULEUR/PRISMA_image2_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image2_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image2_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+  **AVIRIS_NG_Inde_Bengaluru_img1 (588 x 929)**
+  <img src="Images_COULEUR/AVIRIS_NG_Inde_Bengaluru_img1_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_Bengaluru_img1_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_Bengaluru_img1_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
 
-**PRISMA_image3 (1000 x 1000)**
-<img src="Images_COULEUR/PRISMA_image3_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image3_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image3_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+  **AVIRIS_NG_Inde_Bengaluru_img2 (595 x 937)**
+  <img src="Images_COULEUR/AVIRIS_NG_Inde_Bengaluru_img2_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_Bengaluru_img2_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_Bengaluru_img2_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
 
-**PRISMA_image4 (1000 x 1000)**
-<img src="Images_COULEUR/PRISMA_image4_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image4_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image4_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+  **AVIRIS_NG_Inde_Bengaluru_img3 (568 x 952)**
+  <img src="Images_COULEUR/AVIRIS_NG_Inde_Bengaluru_img3_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_Bengaluru_img3_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_Bengaluru_img3_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
 
-**PRISMA_image5_New_York (1000 x 1000)**
-<img src="Images_COULEUR/PRISMA_image5_New_York_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image5_New_York_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image5_New_York_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+  **AVIRIS_NG_Inde_Bengaluru_img4 (597 x 936)**
+  <img src="Images_COULEUR/AVIRIS_NG_Inde_Bengaluru_img4_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_Bengaluru_img4_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_Bengaluru_img4_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
 
-**PRISMA_image6_Hawai (1000 x 1000)**
-<img src="Images_COULEUR/PRISMA_image6_Hawai_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image6_Hawai_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image6_Hawai_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+  **AVIRIS_NG_Inde_img1 (594 x 849)**
+  <img src="Images_COULEUR/AVIRIS_NG_Inde_img1_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_img1_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_img1_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
 
-**PRISMA_image7_Toulouse (1000 x 1000)**
-<img src="Images_COULEUR/PRISMA_image7_Toulouse_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image7_Toulouse_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image7_Toulouse_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+  **AVIRIS_NG_Inde_img2 (589 x 822)**
+  <img src="Images_COULEUR/AVIRIS_NG_Inde_img2_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_img2_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_img2_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
 
-**PRISMA_image8_San_Francisco (1000 x 1000)**
-<img src="Images_COULEUR/PRISMA_image8_San_Francisco_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image8_San_Francisco_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image8_San_Francisco_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+  **AVIRIS_NG_Inde_img3 (608 x 861)**
+  <img src="Images_COULEUR/AVIRIS_NG_Inde_img3_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_img3_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_img3_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
 
-**PRISMA_image9_Madrid (1000 x 1000)**
-<img src="Images_COULEUR/PRISMA_image9_Madrid_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image9_Madrid_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image9_Madrid_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+  **AVIRIS_NG_Inde_img4 (635 x 843)**
+  <img src="Images_COULEUR/AVIRIS_NG_Inde_img4_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/AVIRIS_NG_Inde_img4_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/AVIRIS_NG_Inde_img4_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
+
+
+
+  **PRISMA_CEA_Cuprite (1000 x 1000)**
+  <img src="Images_COULEUR/PRISMA_CEA_Cuprite_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_CEA_Cuprite_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_CEA_Cuprite_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
+
+  **PRISMA_CEA_Fos_sur_Mer (1000 x 1000)**
+  <img src="Images_COULEUR/PRISMA_CEA_Fos_sur_Mer_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_CEA_Fos_sur_Mer_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_CEA_Fos_sur_Mer_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
+
+  **PRISMA_image10_Marseille (1000 x 1000)**
+  <img src="Images_COULEUR/PRISMA_image10_Marseille_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image10_Marseille_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image10_Marseille_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
+
+  **PRISMA_image11_Australie (1000 x 1000)**
+  <img src="Images_COULEUR/PRISMA_image11_Australie_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image11_Australie_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image11_Australie_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
+
+  **PRISMA_image12_Bali (1000 x 1000)**
+  <img src="Images_COULEUR/PRISMA_image12_Bali_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image12_Bali_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image12_Bali_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
+
+  **PRISMA_image1 (1000 x 1000)**
+  <img src="Images_COULEUR/PRISMA_image1_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image1_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image1_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
+
+  **PRISMA_image2 (1000 x 1000)**
+  <img src="Images_COULEUR/PRISMA_image2_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image2_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image2_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
+
+  **PRISMA_image3 (1000 x 1000)**
+  <img src="Images_COULEUR/PRISMA_image3_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image3_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image3_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
+
+  **PRISMA_image4 (1000 x 1000)**
+  <img src="Images_COULEUR/PRISMA_image4_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image4_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image4_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
+
+  **PRISMA_image5_New_York (1000 x 1000)**
+  <img src="Images_COULEUR/PRISMA_image5_New_York_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image5_New_York_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image5_New_York_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
+
+  **PRISMA_image6_Hawai (1000 x 1000)**
+  <img src="Images_COULEUR/PRISMA_image6_Hawai_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image6_Hawai_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image6_Hawai_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
+
+  **PRISMA_image7_Toulouse (1000 x 1000)**
+  <img src="Images_COULEUR/PRISMA_image7_Toulouse_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image7_Toulouse_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image7_Toulouse_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
+
+  **PRISMA_image8_San_Francisco (1000 x 1000)**
+  <img src="Images_COULEUR/PRISMA_image8_San_Francisco_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image8_San_Francisco_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image8_San_Francisco_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
+
+  **PRISMA_image9_Madrid (1000 x 1000)**
+  <img src="Images_COULEUR/PRISMA_image9_Madrid_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image9_Madrid_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image9_Madrid_02_REGUL.png" width="250" />
+  :-: | :-: | :-:
+  Color image | CHRIPS classification map | Regularized classification map
 
 </p>
 
