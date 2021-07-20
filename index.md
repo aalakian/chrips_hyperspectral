@@ -16,7 +16,7 @@ Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With 
 # Test affichage d'image
 
 <p align="center">  
-  <img src="Complements/Legende_classif_ligne.png" width="500" />
+  <img src="Complements/Legende_classif_ligne_v2.png" width="500" />
 </p>
 
 
