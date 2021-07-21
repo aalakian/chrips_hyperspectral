@@ -1,4 +1,4 @@
-<center> [main page](index.md) </center>
+[main page](index.md)</center>
 
 ## Sensor : AVIRIS_NG
 
@@ -197,6 +197,6 @@ Color image | CHRIPS classification map | Regularized classification map
 Color image | CHRIPS classification map | Regularized classification map
 
 <div align="center">
-  [ main page ](index.md)
+  [main page](index.md)
 </div>
 
