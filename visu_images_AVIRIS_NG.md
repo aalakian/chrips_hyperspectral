@@ -196,7 +196,7 @@ Color image | CHRIPS classification map | Regularized classification map
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-<div align="center">
+<p align="center">
   [main page](index.md)
-</div>
+</p>
 
