@@ -4,13 +4,14 @@
 <img src="Complements/Legende_classif_ligne_v2.png" width="500" />
 </p>
 
-**Fauga08_NORD (1027 x 950)**
-<img src="Images_COULEUR/Hyspex_Fauga08_NORD_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/Hyspex_Fauga08_NORD_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/Hyspex_Fauga08_NORD_02_REGUL.png" width="250" />
+
+**Mauzac (564 x 554)**
+<img src="Images_COULEUR/Hyspex_Mauzac_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/Hyspex_Mauzac_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/Hyspex_Mauzac_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**Fauga08_SUD (1025 x 697)**
-<img src="Images_COULEUR/Hyspex_Fauga08_SUD_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/Hyspex_Fauga08_SUD_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/Hyspex_Fauga08_SUD_02_REGUL.png" width="250" />
+**Fauga08_NORD (1027 x 950)**
+<img src="Images_COULEUR/Hyspex_Fauga08_NORD_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/Hyspex_Fauga08_NORD_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/Hyspex_Fauga08_NORD_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
@@ -21,11 +22,6 @@ Color image | CHRIPS classification map | Regularized classification map
 
 **Fermat (261 x 231)**
 <img src="Images_COULEUR/Hyspex_Fermat_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/Hyspex_Fermat_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/Hyspex_Fermat_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**Mauzac (564 x 554)**
-<img src="Images_COULEUR/Hyspex_Mauzac_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/Hyspex_Mauzac_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/Hyspex_Mauzac_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
