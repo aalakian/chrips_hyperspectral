@@ -6,17 +6,17 @@
 <img src="Complements/Legende_classif_ligne_v2.png" width="500" />
 </p>
 
-**New York (USA) - ROI 0  -  size: 1000 x 1000**
+** - ROI 0  -  size: 1000 x 1000**
 <img src="Images_COULEUR/PRISMA_image1_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image1_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image1_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**San Francisco (USA) - ROI 0  -  size: 1000 x 1000**
+** - ROI 0  -  size: 1000 x 1000**
 <img src="Images_COULEUR/PRISMA_image4_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image4_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image4_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**Toulouse (France) - ROI 0  -  size: 1000 x 1000**
+** - ROI 0  -  size: 1000 x 1000**
 <img src="Images_COULEUR/PRISMA_image3_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image3_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image3_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
@@ -31,7 +31,7 @@ Color image | CHRIPS classification map | Regularized classification map
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**Madrid (Spain) - ROI 0  -  size: 1000 x 1000**
+**New York (USA) - ROI 0  -  size: 1000 x 1000**
 <img src="Images_COULEUR/PRISMA_image5_New_York_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image5_New_York_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image5_New_York_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
@@ -46,7 +46,7 @@ Color image | CHRIPS classification map | Regularized classification map
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**Hawaii (USA) - ROI 0  -  size: 1000 x 1000**
+** - ROI 0  -  size: 1000 x 1000**
 <img src="Images_COULEUR/PRISMA_image2_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image2_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image2_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
