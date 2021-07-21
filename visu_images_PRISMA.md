@@ -6,87 +6,63 @@
 <img src="Complements/Legende_classif_ligne_v2.png" width="500" />
 </p>
 
-**Cuprite (USA)**
-** Size : 1000 x 1000**
-<img src="Images_COULEUR/PRISMA_CEA_Cuprite_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_CEA_Cuprite_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_CEA_Cuprite_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**Fos sur Mer (France)**
-** Size : 1000 x 1000**
-<img src="Images_COULEUR/PRISMA_CEA_Fos_sur_Mer_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_CEA_Fos_sur_Mer_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_CEA_Fos_sur_Mer_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**Marseille (France)**
-** Size : 1000 x 1000**
-<img src="Images_COULEUR/PRISMA_image10_Marseille_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image10_Marseille_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image10_Marseille_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**Australia**
-** Size : 1000 x 1000**
-<img src="Images_COULEUR/PRISMA_image11_Australie_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image11_Australie_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image11_Australie_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**Bali (Indonesia)**
-** Size : 1000 x 1000**
-<img src="Images_COULEUR/PRISMA_image12_Bali_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image12_Bali_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image12_Bali_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-****
+**New York (USA) - ROI 0**
 ** Size : 1000 x 1000**
 <img src="Images_COULEUR/PRISMA_image1_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image1_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image1_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-****
-** Size : 1000 x 1000**
-<img src="Images_COULEUR/PRISMA_image2_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image2_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image2_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-****
-** Size : 1000 x 1000**
-<img src="Images_COULEUR/PRISMA_image3_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image3_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image3_02_REGUL.png" width="250" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-****
+**San Francisco (USA) - ROI 0**
 ** Size : 1000 x 1000**
 <img src="Images_COULEUR/PRISMA_image4_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image4_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image4_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**New York (USA)**
+**Toulouse (France) - ROI 0**
+** Size : 1000 x 1000**
+<img src="Images_COULEUR/PRISMA_image3_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image3_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image3_02_REGUL.png" width="250" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**Marseille (France) - ROI 0**
+** Size : 1000 x 1000**
+<img src="Images_COULEUR/PRISMA_image10_Marseille_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image10_Marseille_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image10_Marseille_02_REGUL.png" width="250" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**Fos sur Mer (France) - ROI 0**
+** Size : 1000 x 1000**
+<img src="Images_COULEUR/PRISMA_CEA_Fos_sur_Mer_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_CEA_Fos_sur_Mer_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_CEA_Fos_sur_Mer_02_REGUL.png" width="250" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**Madrid (Spain) - ROI 0**
 ** Size : 1000 x 1000**
 <img src="Images_COULEUR/PRISMA_image5_New_York_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image5_New_York_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image5_New_York_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**Hawai (USA)**
+**Australia - ROI 0**
 ** Size : 1000 x 1000**
-<img src="Images_COULEUR/PRISMA_image6_Hawai_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image6_Hawai_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image6_Hawai_02_REGUL.png" width="250" />
+<img src="Images_COULEUR/PRISMA_image11_Australie_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image11_Australie_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image11_Australie_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**Toulouse (France)**
+**Bali (Indonesia) - ROI 0**
 ** Size : 1000 x 1000**
-<img src="Images_COULEUR/PRISMA_image7_Toulouse_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image7_Toulouse_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image7_Toulouse_02_REGUL.png" width="250" />
+<img src="Images_COULEUR/PRISMA_image12_Bali_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image12_Bali_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image12_Bali_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**San Francisco (USA)**
+**Hawaii (USA) - ROI 0**
 ** Size : 1000 x 1000**
-<img src="Images_COULEUR/PRISMA_image8_San_Francisco_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image8_San_Francisco_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image8_San_Francisco_02_REGUL.png" width="250" />
+<img src="Images_COULEUR/PRISMA_image2_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image2_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image2_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**Madrid (Spain)**
+**Cuprite (USA) - ROI 0**
 ** Size : 1000 x 1000**
-<img src="Images_COULEUR/PRISMA_image9_Madrid_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_image9_Madrid_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_image9_Madrid_02_REGUL.png" width="250" />
+<img src="Images_COULEUR/PRISMA_CEA_Cuprite_00_IMAGE.jpg" width="250" /> | <img src="Images_CLASSIF/PRISMA_CEA_Cuprite_01_CLASSIF.png" width="250" /> | <img src="Images_REGUL/PRISMA_CEA_Cuprite_02_REGUL.png" width="250" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
