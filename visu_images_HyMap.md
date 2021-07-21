@@ -1,4 +1,4 @@
-<center> [< main page >](index.md) </center>
+<center> [main page](index.md) </center>
 
 ## Sensor : HyMap
 
@@ -11,5 +11,7 @@
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-<center> [< main page >](index.md) </center>
+<center>
+  [ main page ](index.md)
+</center>
 
