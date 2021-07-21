@@ -10,6 +10,9 @@ Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With 
 </p>
 
 
+[Goldorak Go](visu_images_AVIRIS.md)
+
+
 
 ## Classification results with standard thresholds (no tuning of parameters)
 
