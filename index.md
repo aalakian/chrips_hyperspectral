@@ -12,10 +12,10 @@ Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With 
 
 [AVIRIS-NG images](visu_images_AVIRIS_NG.md)
 
-[HYSPEX images](visu_images_Hyspex.md)
+[HYSPEX images](visu_images_HYSPEX.md)
 
-[AisaFENIX images](visu_images_AisaFENIX.md)
+[AisaFENIX images](visu_images_AISAFENIX.md)
 
-[HYMAP images](visu_images_HyMap.md)
+[HYMAP images](visu_images_HYMAP.md)
 
 [PRISMA images](visu_images_PRISMA.md)
