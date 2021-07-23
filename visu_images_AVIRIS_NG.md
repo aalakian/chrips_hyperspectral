@@ -236,7 +236,7 @@ Color image | CHRIPS classification map | Regularized classification map
 
 [HYSPEX images](visu_images_HYSPEX.md)
 
-[AisaFENIX images](visu_images_AISAFENIX.md)
+[AISAFENIX images](visu_images_AISAFENIX.md)
 
 [HYMAP images](visu_images_HYMAP.md)
 

@@ -32,7 +32,7 @@ Color image | CHRIPS classification map | Regularized classification map
 
 [AVIRIS-NG images](visu_images_AVIRIS_NG.md)
 
-[AisaFENIX images](visu_images_AISAFENIX.md)
+[AISAFENIX images](visu_images_AISAFENIX.md)
 
 [HYMAP images](visu_images_HYMAP.md)
 
