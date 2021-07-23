@@ -1,4 +1,4 @@
-<center> [main page](index.md) </center>
+[Back to main page](index.md)
 
 ## Sensor : PRISMA
 
