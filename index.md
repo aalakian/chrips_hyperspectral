@@ -14,6 +14,8 @@ Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With 
 
 [HYSPEX images](visu_images_Hyspex.md)
 
+[AisaFENIX images](visu_images_AisaFENIX.md)
+
 [HYMAP images](visu_images_HyMap.md)
 
 [PRISMA images](visu_images_PRISMA.md)
