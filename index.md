@@ -46,7 +46,7 @@ Processing chain of CHRIPS. Atmospheric correction is not included: the input of
 
 <div align="justify"> 
 More details are provided in the paper: 
-Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With Physical and Statistical Criteria. Remote Sens. 2020, 12, 2335. https://doi.org/10.3390/rs12142335
+Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images with Physical and Statistical criteria. Remote Sens. 2020, 12, 2335. https://doi.org/10.3390/rs12142335
 
 </div> 
 
