@@ -29,6 +29,8 @@ In the end, the remaining classes are more complex to describe: they do not exhi
   <img src="Complements/schema_CHRIPS.png" width="700" />
 </p>
 
+*Processing chain of CHRIPS. Atmospheric correction is not included: the input of the processing chain is a reflectance image. The spectral range of input image needs to be [400–2500 nm]: CHRIPS characterizes each class with criteria that use spectral bands in both VNIR and SWIR ranges.* 
+
 More details are provided in the paper: 
 Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With Physical and Statistical Criteria. Remote Sens. 2020, 12, 2335. https://doi.org/10.3390/rs12142335
 
