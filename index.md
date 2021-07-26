@@ -38,13 +38,14 @@ Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With 
 <div align="justify">Three pre-processing can be applied to the hyperspectral image before using the CHRIPS method. The first pre-processing aims at reducing the existing noise on the spectral reflectances by applying a filtering to them: a bilateral filtering for the classes with specific absorptions and a Gaussian filtering for the other classes. The second pre-processing is the spectral interpolation according to the spectral bands used by CHRIPS method. A third pre-processing consists in retaining only spectral bands that are used by CHRIPS. At the output of the CHRIPS method, a spatial regularization step is applied to possibly assign a class to unclassified pixels. CHRIPS is a purely spectral method. However, the regularization method takes into account the neighborhood of the pixels, which introduces a spatial context. 
 Important: CHRIPS exploits the whole spectral range [400–2500 nm]. It cannot be effectively applied to images restricted to the VNIR range [400–1000 nm] or SWIR range [1000–2500 nm]. However, as the classes exploiting specific absorptions focus only on the SWIR domain, they could be well identified in the case where only SWIR data is available. 
 
-CHRIPS presents several advantages: 
+
+</div>
+
+<div align="justify">CHRIPS presents several advantages: 
 * By construction, this method indicates the type of material (a class is not a simple number) as opposed to traditional unsupervised methods. 
 * No parameterization is required from the user. However, some thresholds can be modified according to its needs, such as the thresholds on the NDVI index allowing to characterize the vegetation. 
 * A class is assigned to a pixel if all the criteria associated with the class are true. If a pixel does not meet all the criteria for at least one class, it will be considered as unidentified : it is preferred not to classify rather than risking a wrong assignment. 
 </div>
-
-Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With Physical and Statistical Criteria. Remote Sens. 2020, 12, 2335. https://doi.org/10.3390/rs12142335
 
 <p align="\center">
   <img src="Complements/Graphical_Abstract_CHRIPS.png" width="700" />
