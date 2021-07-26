@@ -7,19 +7,19 @@ The ordered classes are given by the following list:
    * water
    * unidentified dark surface (water, shadows...)
 *  Material with specific absorptions
-   4. plastic matter (aliphatic)
-   5. plastic matter (aromatic)
-   6. carbonate
-   7. clay soil
+   * plastic matter (aliphatic)
+   * plastic matter (aromatic)
+   * carbonate
+   * clay soil
 *  Vegetation
-   8. dense green vegetation
-   9. sparse green vegetation
-   10. stressed vegetation
+   * dense green vegetation
+   * sparse green vegetation
+   * stressed vegetation
 *  Classes with dedicated indices
-   11. house roof/tile/iron oxide
-   12. asphalt
-   13. vehicle/paint/metal surface
-   14. non-carbonated gravel
+   * house roof/tile/iron oxide
+   * asphalt
+   * vehicle/paint/metal surface
+   * non-carbonated gravel
 *  Unidentified (0)
 
 First of all, dark surfaces are identified: they are defined as surfaces for which reflectances are very low in the SWIR range. They are also processed first because corresponding spectra are very noisy and may check sometimes criteria of other classes. Secondly, materials with specific absorptions are identified. They correspond to materials that present very local minima on spectral reflectance due to electronic or vibrational processes. For instance, reflectances of surfaces containing clay have a local minimum around 2200 nm. Thirdly, vegetation classes are identified. They are characterized with dedicated indices that highlight some bio-physical properties (chlorophyll content, water content, stress, etc.) or geometric features (local maxima, etc.). 
