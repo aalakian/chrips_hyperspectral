@@ -1,6 +1,45 @@
 ## Classification of Hyperspectral Reflectance Images With Physical and Statistical Criteria : CHRIPS method (2020)
 
-The classification method of hyperspectral reflectance images named CHRIPS (Classification of Hyperspectral Reflectance Images with Physical and Statistical criteria) aims at classifying each pixel from a given set of thirteen classes: unidentified dark surface, water, plastic matter, carbonate, clay, vegetation (dark green, dense green, sparse green, stressed), house roof / tile, asphalt, vehicle / paint / metal surface and non-carbonated gravel. Each class is characterized by physical criteria (detection of specific absorptions or shape features) or statistical criteria (use of dedicated spectral indices) over spectral reflectance. CHRIPS input is a hyperspectral reflectance image covering the spectral range \[400-2500nm\]. The presented method has four advantages, namely: i) is robust in transfer, class identification is based on criteria that are not very sensitive to sensor type; ii) does not require training, criteria are pre-defined; iii) includes a reject class, this class reduces misclassifications; iv) high precision and recall, F1 score is generally above 0.9 in our test. As the number of classes is limited, CHRIPS could be used in combination with other classification algorithms able to process the reject class in order to decrease the number of unclassified pixels.
+CHRIPS is a hierarchical unsupervised classification method that can be applied on hyperspectral reflectance images covering the spectral range [400–2500 nm]. For each class, a dedicated detection method exploits specific spectral properties (specific absorptions or shape features) or spectral indices. CHRIPS method identifies fourteen different classes that are gathered into four groups: dark surfaces, materials with specific absorptions, vegetation and other types of surfaces (scattering surfaces). The class assignment is hierarchical: classes are investigated one after the other in a given order. Class order is defined by the complexity of class characterization. It reduces the number of criteria needed to characterize each class. 
+The ordered classes are given by the following list:
+ -  Dark surface
+   1) dark green vegetation
+   2) water
+   3) unidentified dark surface (water, shadows...)
+  -  Material with specific absorptions
+   4) plastic matter (aliphatic)
+   5) plastic matter (aromatic)
+   6) carbonate
+   7) clay soil
+  -  Vegetation
+   8) dense green vegetation
+   9) sparse green vegetation
+   10) stressed vegetation
+   -  Classes with dedicated indices
+   11) house roof/tile
+   12) asphalt
+   13) vehicle/paint/metal surface
+   14) non-carbonated gravel
+  -  Unidentified (0)
+
+First of all, dark surfaces are identified: they are defined as surfaces for which reflectances are very low in the SWIR range. They are also processed first because corresponding spectra are very noisy and may check sometimes criteria of other classes. Secondly, materials with specific absorptions are identified. They correspond to materials that present very local minima on spectral reflectance due to electronic or vibrational processes. For instance, reflectances of surfaces containing clay have a local minimum around 2200 nm. Thirdly, vegetation classes are identified. They are characterized with dedicated indices that highlight some bio-physical properties (chlorophyll content, water content, stress, etc.) or geometric features (local maxima, etc.). 
+In the end, the remaining classes are more complex to describe: they do not exhibit any physical or observable features that make it possible to characterize them. It is why they are processed after all other classes. We propose to compute some combinations of indices in the same way as vegetation indices and that would be dedicated to a given class. The classification process CHRIPS is based on a sequential tree of detection. Each class is characterized with a few criteria and classes are ordered. The process of classification is as follows. For each pixel, all criteria associated to class 1 are assessed. If all criteria are true, the pixel is considered as belonging to class 1 and the process ends. If at least one criterion is false, the pixel does not belong to class 1, criteria of class 2 are then assessed. The same process is conducted class after class. If at the end, the pixel does not belong to any of the defined classes, it is considered as unidentified. CHRIPS includes a reject class that reduces the risk of misclassification. In general, the reject class includes spectra that do not correspond to any class of CHRIPS or correspond to mixed spectra. Depending on spatial resolution, many pixels may contain different materials or surfaces and then a unique label could not be easily assigned to them (except in the case where a given class has a large majority). The full processing chain of CHRIPS is presented below: 
+
+<p align="\center">
+  <img src="Complements/schema_CHRIPS.png" width="700" />
+</p>
+
+More details are provided in the paper: 
+Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With Physical and Statistical Criteria. Remote Sens. 2020, 12, 2335. https://doi.org/10.3390/rs12142335
+
+
+Three pre-processing can be applied to the hyperspectral image before using the CHRIPS method. The first pre-processing aims at reducing the existing noise on the spectral reflectances by applying a filtering to them: a bilateral filtering for the classes with specific absorptions and a Gaussian filtering for the other classes. The second pre-processing is the spectral interpolation according to the spectral bands used by CHRIPS method. A third pre-processing consists in retaining only spectral bands that are used by CHRIPS. More details are presented in Annex XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. At the output of the CHRIPS method, a spatial regularization step is applied to possibly assign a class to unclassified pixels. CHRIPS is a purely spectral method. However, the regularization method takes into account the neighborhood of the pixels, which introduces a spatial context. 
+Important: CHRIPS exploits the whole spectral range [400–2500 nm]. It cannot be effectively applied to images restricted to the VNIR range [400–1000 nm] or SWIR range [1000–2500 nm]. However, as the classes exploiting specific absorptions focus only on the SWIR domain, they could be well identified in the case where only SWIR data is available. 
+CHRIPS presents several advantages: 
+- By construction, this method indicates the type of material (a class is not a simple number) as opposed to traditional unsupervised methods. 
+- No parameterization is required from the user. However, some thresholds can be modified according to its needs, such as the thresholds on the NDVI index allowing to characterize the vegetation. 
+- A class is assigned to a pixel if all the criteria associated with the class are true. If a pixel does not meet all the criteria for at least one class, it will be considered as unidentified : it is preferred not to classify rather than risking a wrong assignment. 
+
 
 Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With Physical and Statistical Criteria. Remote Sens. 2020, 12, 2335. https://doi.org/10.3390/rs12142335
 
