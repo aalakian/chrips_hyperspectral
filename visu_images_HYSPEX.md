@@ -8,7 +8,7 @@
 
 **Mauzac (France)  -  size: 564 x 554**
 
-<img src="Images_COULEUR/Hyspex_Mauzac_00_IMAGE.jpg" width="270" /> | <img src="Images_CLASSIF/Hyspex_Mauzac_01_CLASSIF.png" width="270" /> | <img src="Images_REGUL/Hyspex_Mauzac_02_REGUL.png" width="270" />
+<img src="Images_COULEUR/Hyspex_MauzacMasque_00_IMAGE.jpg" width="270" /> | <img src="Images_CLASSIF/Hyspex_MauzacMasque_01_CLASSIF.png" width="270" /> | <img src="Images_REGUL/Hyspex_MauzacMasque_02_REGUL.png" width="270" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
@@ -39,4 +39,5 @@ Color image | CHRIPS classification map | Regularized classification map
 [PRISMA images](visu_images_PRISMA.md)
 
 [Back to main page](index.md)
+
 

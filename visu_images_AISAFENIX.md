@@ -22,3 +22,4 @@ Color image | CHRIPS classification map | Regularized classification map
 
 [Back to main page](index.md)
 
+
