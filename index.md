@@ -1,4 +1,4 @@
-## Classification of Hyperspectral Reflectance Images With Physical and Statistical Criteria : CHRIPS method (2020)
+## Classification of Hyperspectral Reflectance Images with Physical and Statistical criteria : CHRIPS method (2020)
 
 <div align="justify"> 
 CHRIPS is a hierarchical unsupervised classification method that can be applied on hyperspectral reflectance images covering the spectral range [400–2500 nm]. For each class, a dedicated detection method exploits specific spectral properties (specific absorptions or shape features) or spectral indices. CHRIPS method identifies fourteen different classes that are gathered into four groups: dark surfaces, materials with specific absorptions, vegetation and other types of surfaces (scattering surfaces). The class assignment is hierarchical: classes are investigated one after the other in a given order. Class order is defined by the complexity of class characterization. It reduces the number of criteria needed to characterize each class. 
@@ -46,7 +46,7 @@ Processing chain of CHRIPS. Atmospheric correction is not included: the input of
 
 <div align="justify"> 
 More details are provided in the paper: 
-Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images with Physical and Statistical criteria. Remote Sens. 2020, 12, 2335. https://doi.org/10.3390/rs12142335
+Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With Physical and Statistical Criteria. Remote Sens. 2020, 12, 2335. https://doi.org/10.3390/rs12142335
 
 </div> 
 
