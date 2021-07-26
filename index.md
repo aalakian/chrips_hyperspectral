@@ -3,23 +3,31 @@
 CHRIPS is a hierarchical unsupervised classification method that can be applied on hyperspectral reflectance images covering the spectral range [400–2500 nm]. For each class, a dedicated detection method exploits specific spectral properties (specific absorptions or shape features) or spectral indices. CHRIPS method identifies fourteen different classes that are gathered into four groups: dark surfaces, materials with specific absorptions, vegetation and other types of surfaces (scattering surfaces). The class assignment is hierarchical: classes are investigated one after the other in a given order. Class order is defined by the complexity of class characterization. It reduces the number of criteria needed to characterize each class. 
 The ordered classes are given by the following list:
 -  Dark surface
+
    1\) dark green vegetation
    2) water
    3) unidentified dark surface (water, shadows...)
+   
 -  Material with specific absorptions
+
    4) plastic matter (aliphatic)
    5) plastic matter (aromatic)
    6) carbonate
    7) clay soil
+  
 -  Vegetation
+
    8) dense green vegetation
    9) sparse green vegetation
    10) stressed vegetation
+   
 -  Classes with dedicated indices
+
    11) house roof/tile
    12) asphalt
    13) vehicle/paint/metal surface
    14) non-carbonated gravel
+ 
 -  Unidentified (0)
 
 First of all, dark surfaces are identified: they are defined as surfaces for which reflectances are very low in the SWIR range. They are also processed first because corresponding spectra are very noisy and may check sometimes criteria of other classes. Secondly, materials with specific absorptions are identified. They correspond to materials that present very local minima on spectral reflectance due to electronic or vibrational processes. For instance, reflectances of surfaces containing clay have a local minimum around 2200 nm. Thirdly, vegetation classes are identified. They are characterized with dedicated indices that highlight some bio-physical properties (chlorophyll content, water content, stress, etc.) or geometric features (local maxima, etc.). 
