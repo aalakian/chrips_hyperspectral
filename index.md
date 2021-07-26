@@ -4,20 +4,15 @@ CHRIPS is a hierarchical unsupervised classification method that can be applied 
 The ordered classes are given by the following list:
 *  Dark surface
 
-   1. dark green vegetation
-   
-   2. water
-   
-   3. unidentified dark surface (water, shadows...)
+   1) dark green vegetation
+   2) water
+   3) unidentified dark surface (water, shadows...)
    
 *  Material with specific absorptions
 
    4) plastic matter (aliphatic)
-  
    5) plastic matter (aromatic)
-   
    6) carbonate
-   
    7) clay soil
   
 *  Vegetation
