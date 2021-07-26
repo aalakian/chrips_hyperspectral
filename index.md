@@ -4,7 +4,7 @@ CHRIPS is a hierarchical unsupervised classification method that can be applied 
 The ordered classes are given by the following list:
 -  Dark surface
 
-   1\) dark green vegetation
+   1) dark green vegetation
    2) water
    3) unidentified dark surface (water, shadows...)
    
