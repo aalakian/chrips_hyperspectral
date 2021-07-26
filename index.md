@@ -1,7 +1,7 @@
 ## Classification of Hyperspectral Reflectance Images with Physical and Statistical criteria : CHRIPS method (2020)
 
 <div align="justify"> 
-CHRIPS is a hierarchical unsupervised classification method that can be applied on hyperspectral reflectance images covering the spectral range [400â€“2500 nm]. For each class, a dedicated detection method exploits specific spectral properties (specific absorptions or shape features) or spectral indices. CHRIPS method identifies fourteen different classes that are gathered into four groups: dark surfaces, materials with specific absorptions, vegetation and other types of surfaces (scattering surfaces). The class assignment is hierarchical: classes are investigated one after the other in a given order. Class order is defined by the complexity of class characterization. It reduces the number of criteria needed to characterize each class. 
+CHRIPS is a hierarchical unsupervised classification method that can be applied on hyperspectral reflectance images covering the spectral range [400–2500 nm]. For each class, a dedicated detection method exploits specific spectral properties (specific absorptions or shape features) or spectral indices. CHRIPS method identifies fourteen different classes that are gathered into four groups: dark surfaces, materials with specific absorptions, vegetation and other types of surfaces (scattering surfaces). The class assignment is hierarchical: classes are investigated one after the other in a given order. Class order is defined by the complexity of class characterization. It reduces the number of criteria needed to characterize each class. 
 </div> 
 
 
@@ -41,26 +41,26 @@ In the end, the remaining classes are more complex to describe: they do not exhi
 </p>
 
 <div align="justify"> 
-Processing chain of CHRIPS. Atmospheric correction is not included: the input of the processing chain is a reflectance image. The spectral range of input image needs to be [400â€“2500 nm]: CHRIPS characterizes each class with criteria that use spectral bands in both VNIR and SWIR ranges. 
+Processing chain of CHRIPS. Atmospheric correction is not included: the input of the processing chain is a reflectance image. The spectral range of input image needs to be [400–2500 nm]: CHRIPS characterizes each class with criteria that use spectral bands in both VNIR and SWIR ranges. 
 </div> 
 
 <div align="justify"> 
 More details are provided in the paper: 
-Alakian, A.; Achard, V. Classification of Hyperspectral Reflectance Images With Physical and Statistical Criteria. Remote Sens. 2020, 12, 2335. https://doi.org/10.3390/rs12142335
+Alakian, A.; Achard, V. _Classification of Hyperspectral Reflectance Images With Physical and Statistical Criteria_. Remote Sens. 2020, 12, 2335. https://doi.org/10.3390/rs12142335
 
 </div> 
 
 <div align="justify"> 
 Three pre-processing can be applied to the hyperspectral image before using the CHRIPS method. The first pre-processing aims at reducing the existing noise on the spectral reflectances by applying a filtering to them: a bilateral filtering for the classes with specific absorptions and a Gaussian filtering for the other classes. The second pre-processing is the spectral interpolation according to the spectral bands used by CHRIPS method. A third pre-processing consists in retaining only spectral bands that are used by CHRIPS. At the output of the CHRIPS method, a spatial regularization step is applied to possibly assign a class to unclassified pixels. CHRIPS is a purely spectral method. However, the regularization method takes into account the neighborhood of the pixels, which introduces a spatial context. 
-Important: CHRIPS exploits the whole spectral range [400â€“2500 nm]. It cannot be effectively applied to images restricted to the VNIR range [400â€“1000 nm] or SWIR range [1000â€“2500 nm]. However, as the classes exploiting specific absorptions focus only on the SWIR domain, they could be well identified in the case where only SWIR data is available. 
+Important: CHRIPS exploits the whole spectral range [400–2500 nm]. It cannot be effectively applied to images restricted to the VNIR range [400–1000 nm] or SWIR range [1000–2500 nm]. However, as the classes exploiting specific absorptions focus only on the SWIR domain, they could be well identified in the case where only SWIR data is available. 
 </div> 
 
 
 
 CHRIPS presents several advantages: 
-* By construction, this method indicates the type of material (a class is not a simple number) as opposed to traditional unsupervised methods. 
+* By construction, this method indicates the type of material (a class is not a simple number), unlike traditional unsupervised methods. 
 * No parameterization is required from the user. However, some thresholds can be modified according to its needs, such as the thresholds on the NDVI index allowing to characterize the vegetation. 
-* A class is assigned to a pixel if all the criteria associated with the class are true. If a pixel does not meet all the criteria for at least one class, it will be considered as unidentified : it is preferred not to classify rather than risking a wrong assignment. 
+* A class is assigned to a pixel if all the criteria associated with the class are true. If a pixel does not meet all the criteria for at least one class, it will be considered as unidentified : it is preferred not to classify rather than risking a wrong assignment. Another classification method could then be used to process unidentified pixels. 
 
 
 <p align="center">
@@ -78,7 +78,5 @@ CHRIPS presents several advantages:
 [HYMAP images](visu_images_HYMAP.md)
 
 [PRISMA images](visu_images_PRISMA.md)
-
-
 
 
