@@ -42,6 +42,24 @@ Color image | CHRIPS classification map | Regularized classification map
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
+**Switzerland - ROI 1  -  size: 658 x 968**
+
+<img src="Images_COULEUR/AVIRIS_NG_Suisse2_ROI1_00_IMAGE.png" width="270" /> | <img src="Images_CLASSIF/AVIRIS_NG_Suisse2_ROI1_01_CLASSIF.png" width="270" /> | <img src="Images_REGUL/AVIRIS_NG_Suisse2_ROI1_02_REGUL.png" width="270" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**Switzerland - ROI 2  -  size: 597 x 963**
+
+<img src="Images_COULEUR/AVIRIS_NG_Suisse2_ROI2_00_IMAGE.png" width="270" /> | <img src="Images_CLASSIF/AVIRIS_NG_Suisse2_ROI2_01_CLASSIF.png" width="270" /> | <img src="Images_REGUL/AVIRIS_NG_Suisse2_ROI2_02_REGUL.png" width="270" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**Switzerland - ROI 3  -  size: 656 x 968**
+
+<img src="Images_COULEUR/AVIRIS_NG_Suisse2_ROI3_00_IMAGE.png" width="270" /> | <img src="Images_CLASSIF/AVIRIS_NG_Suisse2_ROI3_01_CLASSIF.png" width="270" /> | <img src="Images_REGUL/AVIRIS_NG_Suisse2_ROI3_02_REGUL.png" width="270" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
 **Site 1 (Germany) - ROI 1  -  size: 599 x 952**
 
 <img src="Images_COULEUR/AVIRIS_NG_Allemagne_img1_00_IMAGE.jpg" width="270" /> | <img src="Images_CLASSIF/AVIRIS_NG_Allemagne_img1_01_CLASSIF.png" width="270" /> | <img src="Images_REGUL/AVIRIS_NG_Allemagne_img1_02_REGUL.png" width="270" />
