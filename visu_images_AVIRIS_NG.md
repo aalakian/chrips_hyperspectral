@@ -30,31 +30,31 @@ Color image | CHRIPS classification map | Regularized classification map
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**Basel (Switzerland) - ROI 1  -  size: 623 x 910**
+**Site 1 - Basel (Switzerland) - ROI 1  -  size: 623 x 910**
 
 <img src="Images_COULEUR/AVIRIS_NG_Suisse_Basel_img1_00_IMAGE.jpg" width="270" /> | <img src="Images_CLASSIF/AVIRIS_NG_Suisse_Basel_img1_01_CLASSIF.png" width="270" /> | <img src="Images_REGUL/AVIRIS_NG_Suisse_Basel_img1_02_REGUL.png" width="270" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**Basel (Switzerland) - ROI 2  -  size: 615 x 757**
+**Site 1 - Basel (Switzerland) - ROI 2  -  size: 615 x 757**
 
 <img src="Images_COULEUR/AVIRIS_NG_Suisse_Basel_img2_00_IMAGE.jpg" width="270" /> | <img src="Images_CLASSIF/AVIRIS_NG_Suisse_Basel_img2_01_CLASSIF.png" width="270" /> | <img src="Images_REGUL/AVIRIS_NG_Suisse_Basel_img2_02_REGUL.png" width="270" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**Switzerland - ROI 1  -  size: 658 x 968**
+**Site 2 (Switzerland) - ROI 1  -  size: 658 x 968**
 
 <img src="Images_COULEUR/AVIRIS_NG_Suisse2_ROI1_00_IMAGE.png" width="270" /> | <img src="Images_CLASSIF/AVIRIS_NG_Suisse2_ROI1_01_CLASSIF.png" width="270" /> | <img src="Images_REGUL/AVIRIS_NG_Suisse2_ROI1_02_REGUL.png" width="270" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**Switzerland - ROI 2  -  size: 597 x 963**
+**Site 2 (Switzerland) - ROI 2  -  size: 597 x 963**
 
 <img src="Images_COULEUR/AVIRIS_NG_Suisse2_ROI2_00_IMAGE.png" width="270" /> | <img src="Images_CLASSIF/AVIRIS_NG_Suisse2_ROI2_01_CLASSIF.png" width="270" /> | <img src="Images_REGUL/AVIRIS_NG_Suisse2_ROI2_02_REGUL.png" width="270" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**Switzerland - ROI 3  -  size: 656 x 968**
+**Site 2 (Switzerland) - ROI 3  -  size: 656 x 968**
 
 <img src="Images_COULEUR/AVIRIS_NG_Suisse2_ROI3_00_IMAGE.png" width="270" /> | <img src="Images_CLASSIF/AVIRIS_NG_Suisse2_ROI3_01_CLASSIF.png" width="270" /> | <img src="Images_REGUL/AVIRIS_NG_Suisse2_ROI3_02_REGUL.png" width="270" />
 :-: | :-: | :-:
