@@ -81,7 +81,7 @@ The CHRIPS method was applied on different images acquired with different sensor
 
 [PRISMA images](visu_images_PRISMA.md)
 
-[FULL images](visu_images_BIG-IMAGES.md)
+[FULL images](visu_images_BIG-IMAGE.md)
 
 
 
