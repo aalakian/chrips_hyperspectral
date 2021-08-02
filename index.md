@@ -71,7 +71,7 @@ CHRIPS presents several advantages:
 
 The CHRIPS method was applied on different images acquired with different sensors. Standard thresholds were used (no tuning). The classification maps can be seen on the following links. Do not hesitate to contact me if you want CHRIPS to be applied on a given reflectance image (email address in the MDPI article). 
 
-[AVIRIS-NG images](visu_images_AVIRIS_NG.md)
+[AVIRIS-NG images](visu_images_AVIRIS-NG.md)
 
 [HYSPEX images](visu_images_HYSPEX.md)
 
@@ -81,6 +81,7 @@ The CHRIPS method was applied on different images acquired with different sensor
 
 [PRISMA images](visu_images_PRISMA.md)
 
+[FULL images](visu_images_BIG-IMAGES.md)
 
 
 

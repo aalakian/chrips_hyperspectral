@@ -38,7 +38,7 @@ Color image | CHRIPS classification map | Regularized classification map
 
 [PRISMA images](visu_images_PRISMA.md)
 
-[Big images](visu_BIG_IMAGES.md)
+[FULL Images](visu_images_BIG_IMAGES.md)
 
 [Back to main page](index.md)
 

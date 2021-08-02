@@ -74,7 +74,7 @@ Color image | CHRIPS classification map | Regularized classification map
 
 [HYMAP images](visu_images_HYMAP.md)
 
-[Big images](visu_BIG_IMAGES.md)
+[FULL Images](visu_images_BIG_IMAGES.md)
 
 [Back to main page](index.md)
 
