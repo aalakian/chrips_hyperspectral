@@ -1,6 +1,6 @@
 [Back to main page](index.md)
 
-## Sensor : BIG-IMAGE
+## Full images (huge size!)
 
 <p align="center">
 <img src="Complements/Legende_classif_ligne_v2.png" width="500" />
