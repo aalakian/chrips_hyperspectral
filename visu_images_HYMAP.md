@@ -1,4 +1,4 @@
-[Back to main page](index.md)
+[Back to main page](index_NEW.md)
 
 ## Sensor : HYMAP
 
@@ -8,7 +8,7 @@
 
 **Garons (France)  -  size: 527 x 998**
 
-<img src="Images_COULEUR/HyMap_Garons_00_IMAGE.jpg" width="270" /> | <img src="Images_CLASSIF/HyMap_Garons_01_CLASSIF.png" width="270" /> | <img src="Images_REGUL/HyMap_Garons_02_REGUL.png" width="270" />
+<img src="Images/HYMAP/Garons/HyMap_Garons_00_IMAGE.jpg" width="270" /> | <img src="Images/HYMAP/Garons/HyMap_Garons_01_CLASSIF.png" width="270" /> | <img src="Images/HYMAP/Garons/HyMap_Garons_02_REGUL.png" width="270" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
@@ -19,6 +19,8 @@ Color image | CHRIPS classification map | Regularized classification map
 [AISAFENIX images](visu_images_AISAFENIX.md)
 
 [PRISMA images](visu_images_PRISMA.md)
+
+[Big images](visu_BIG_IMAGES.md)
 
 [Back to main page](index.md)
 
