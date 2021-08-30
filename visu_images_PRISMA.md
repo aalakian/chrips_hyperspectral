@@ -60,7 +60,10 @@ Color image | CHRIPS classification map | Regularized classification map
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**USA, Cuprite  -  size: 1000 x 1000 (The classes of the CHRIPS method do not allow to characterize this type of environment!) **
+**USA, Cuprite  -  size: 1000 x 1000**
+
+**(The classes of the CHRIPS method do not allow to characterize this type of environment!)**
+
 
 <img src="Images/PRISMA/SiteB_Cuprite/PRISMA_CEA_Cuprite_00_IMAGE.jpg" width="270" /> | <img src="Images/PRISMA/SiteB_Cuprite/PRISMA_CEA_Cuprite_01_CLASSIF.png" width="270" /> | <img src="Images/PRISMA/SiteB_Cuprite/PRISMA_CEA_Cuprite_02_REGUL.png" width="270" />
 :-: | :-: | :-:
