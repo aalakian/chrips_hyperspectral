@@ -8,7 +8,7 @@
 
 **France, Garons  -  size: 527 x 998**
 
-<img src="Images/HYMAP/Garons/HyMap_Garons_00_IMAGE.jpg" width="270" /> | <img src="Images/HYMAP/Garons/HyMap_Garons_01_CLASSIF.png" width="270" /> | <img src="Images/HYMAP/Garons/HyMap_Garons_02_REGUL.png" width="270" />
+<img src="Images/HYMAP/Garons/HYMAP_Garons_00_IMAGE.png" width="270" /> | <img src="Images/HYMAP/Garons/HYMAP_Garons_01_CLASSIF.png" width="270" /> | <img src="Images/HYMAP/Garons/HYMAP_Garons_02_REGUL.png" width="270" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
