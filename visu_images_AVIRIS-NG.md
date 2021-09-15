@@ -248,7 +248,7 @@ Color image | CHRIPS classification map | Regularized classification map
 
 **India, Bengaluru (ROI 4)  -  size: 597 x 936**
 
-<img src="Images/AVIRIS-NG/Inde_site2/ROI4/AVIRIS_NG_Inde_Bengaluru_img4_00_IMAGE.jpg" width="270" /> | <img src="Images/AVIRIS-NG/Inde_site2/ROI4/AVIRIS_NG_Inde_Bengaluru_img4_01_CLASSIF.png" width="270" /> | <img src="Images/AVIRIS-NG/Inde_site2/ROI4/AVIRIS_NG_Inde_Bengaluru_img4_02_REGUL.png" width="270" />
+<img src="Images/AVIRIS-NG/Inde_site2/ROI4/AVIRIS-NG_Inde_Bengaluru_img4_00_IMAGE.jpg" width="270" /> | <img src="Images/AVIRIS-NG/Inde_site2/ROI4/AVIRIS_NG_Inde_Bengaluru_img4_01_CLASSIF.png" width="270" /> | <img src="Images/AVIRIS-NG/Inde_site2/ROI4/AVIRIS_NG_Inde_Bengaluru_img4_02_REGUL.png" width="270" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
