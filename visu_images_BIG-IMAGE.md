@@ -6,21 +6,87 @@
 <img src="Complements/Legende_classif_ligne_v2.png" width="500" />
 </p>
 
+**USA (AVIRIS-NG), Houston  -  size: 669 x 6262**
+
+<img src="Images/BIG-IMAGE/AVIRIS_NG_USA_Houston/AVIRIS_NG_Houston_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_USA_Houston/AVIRIS_NG_Houston_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_USA_Houston/AVIRIS_NG_Houston_FULL_02_REGUL.png" width="270" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**USA (AVIRIS-NG), Alaska, North-West  -  size: 671 x 9404**
+
+<img src="Images/BIG-IMAGE/AVIRIS-NG_Alaska_Nord_Ouest/Big_Image_AVIRIS-NG_Alaska_Nord_Ouest_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Alaska_Nord_Ouest/Big_Image_AVIRIS-NG_Alaska_Nord_Ouest_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Alaska_Nord_Ouest/Big_Image_AVIRIS-NG_Alaska_Nord_Ouest_FULL_02_SAFE_REGUL.png" width="270" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**USA (AVIRIS-NG), California, Vallejo  -  size: 659 x 5787**
+
+<img src="Images/BIG-IMAGE/AVIRIS-NG_Californie_Vallejo/Big_Image_AVIRIS-NG_Californie_Vallejo_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Californie_Vallejo/Big_Image_AVIRIS-NG_Californie_Vallejo_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Californie_Vallejo/Big_Image_AVIRIS-NG_Californie_Vallejo_FULL_02_SAFE_REGUL.png" width="270" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**USA (AVIRIS-NG), Los_Angeles, Santa Ana  -  size: 670 x 5065**
+
+<img src="Images/BIG-IMAGE/AVIRIS-NG_Los_Angeles_Santa_Ana/Big_Image_AVIRIS-NG_Los_Angeles_Santa_Ana_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Los_Angeles_Santa_Ana/Big_Image_AVIRIS-NG_Los_Angeles_Santa_Ana_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Los_Angeles_Santa_Ana/Big_Image_AVIRIS-NG_Los_Angeles_Santa_Ana_FULL_02_SAFE_REGUL.png" width="270" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**USA (AVIRIS-NG), Oklahoma, Tulsa  -  size: 640 x 2446**
+
+<img src="Images/BIG-IMAGE/AVIRIS-NG_Oklahoma_Tulsa/Big_Image_AVIRIS-NG_Oklahoma_Tulsa_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Oklahoma_Tulsa/Big_Image_AVIRIS-NG_Oklahoma_Tulsa_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Oklahoma_Tulsa/Big_Image_AVIRIS-NG_Oklahoma_Tulsa_FULL_02_SAFE_REGUL.png" width="270" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**USA (AVIRIS-NG), Cincinatti, South  -  size: 646 x 2306**
+
+<img src="Images/BIG-IMAGE/AVIRIS-NG_Cincinatti_sud/Big_Image_AVIRIS-NG_Cincinatti_sud_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Cincinatti_sud/Big_Image_AVIRIS-NG_Cincinatti_sud_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Cincinatti_sud/Big_Image_AVIRIS-NG_Cincinatti_sud_FULL_02_SAFE_REGUL.png" width="270" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**USA (AVIRIS-NG), Houston, site 2  -  size: 658 x 2692**
+
+<img src="Images/BIG-IMAGE/AVIRIS-NG_Houston_site2/Big_Image_AVIRIS-NG_Houston_site2_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Houston_site2/Big_Image_AVIRIS-NG_Houston_site2_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Houston_site2/Big_Image_AVIRIS-NG_Houston_site2_FULL_02_SAFE_REGUL.png" width="270" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**India (AVIRIS-NG), Bhitarkanika  -  size: 766 x 6581**
+
+<img src="Images/BIG-IMAGE/AVIRIS-NG_Inde_Bhitarkanika/Big_Image_AVIRIS-NG_Inde_Bhitarkanika_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Inde_Bhitarkanika/Big_Image_AVIRIS-NG_Inde_Bhitarkanika_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Inde_Bhitarkanika/Big_Image_AVIRIS-NG_Inde_Bhitarkanika_FULL_02_SAFE_REGUL.png" width="270" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
 **France (AVIRIS-NG), somewhere  -  size: 656 x 4168**
 
 <img src="Images/BIG-IMAGE/AVIRIS_NG_France/AVIRIS_NG_France_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_France/AVIRIS_NG_France_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_France/AVIRIS_NG_France_FULL_02_REGUL.png" width="270" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**Switzerland (AVIRIS-NG), somewhere  -  size: 717 x 11112**
+**Germany (AVIRIS-NG), Ulm (close)  -  size: 694 x 8926**
 
-<img src="Images/BIG-IMAGE/AVIRIS_NG_Suisse_site2/AVIRIS_NG_Suisse_Autre_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_Suisse_site2/AVIRIS_NG_Suisse_Autre_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_Suisse_site2/AVIRIS_NG_Suisse_Autre_FULL_02_REGUL.png" width="270" />
+<img src="Images/BIG-IMAGE/AVIRIS-NG_Allemagne_site3_Ulm/Big_Image_AVIRIS-NG_Allemagne_site3_Ulm_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Allemagne_site3_Ulm/Big_Image_AVIRIS-NG_Allemagne_site3_Ulm_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Allemagne_site3_Ulm/Big_Image_AVIRIS-NG_Allemagne_site3_Ulm_FULL_02_SAFE_REGUL.png" width="270" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**USA (AVIRIS-NG), Houston  -  size: 669 x 6262**
+**Switzerland (AVIRIS-NG), Basel, East  -  size: 738 x 10208**
 
-<img src="Images/BIG-IMAGE/AVIRIS_NG_USA_Houston/AVIRIS_NG_Houston_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_USA_Houston/AVIRIS_NG_Houston_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_USA_Houston/AVIRIS_NG_Houston_FULL_02_REGUL.png" width="270" />
+<img src="Images/BIG-IMAGE/AVIRIS-NG_Suisse_Est_de_Basel/Big_Image_AVIRIS-NG_Suisse_Est_de_Basel_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Suisse_Est_de_Basel/Big_Image_AVIRIS-NG_Suisse_Est_de_Basel_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Suisse_Est_de_Basel/Big_Image_AVIRIS-NG_Suisse_Est_de_Basel_FULL_02_SAFE_REGUL.png" width="270" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**Switzerland (AVIRIS-NG), North-East  -  size: 1308 x 10301**
+
+<img src="Images/BIG-IMAGE/AVIRIS-NG_Suisse_Nord_Est_0.6m/Big_Image_AVIRIS-NG_Suisse_Nord_Est_0.6m_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Suisse_Nord_Est_0.6m/Big_Image_AVIRIS-NG_Suisse_Nord_Est_0.6m_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Suisse_Nord_Est_0.6m/Big_Image_AVIRIS-NG_Suisse_Nord_Est_0.6m_FULL_02_SAFE_REGUL.png" width="270" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**Switzerland (AVIRIS-NG), South  -  size: 717 x 11112**
+
+<img src="Images/BIG-IMAGE/AVIRIS-NG_Suisse_site2/Big_Image_AVIRIS-NG_Suisse_site2_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Suisse_site2/Big_Image_AVIRIS-NG_Suisse_site2_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Suisse_site2/Big_Image_AVIRIS-NG_Suisse_site2_FULL_02_SAFE_REGUL.png" width="270" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**Italy (AVIRIS-NG), Marina di Grosseto  -  size: 662 x 3867**
+
+<img src="Images/BIG-IMAGE/AVIRIS-NG_Italie_Marina_di_Grosseto/Big_Image_AVIRIS-NG_Italie_Marina_di_Grosseto_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Italie_Marina_di_Grosseto/Big_Image_AVIRIS-NG_Italie_Marina_di_Grosseto_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Italie_Marina_di_Grosseto/Big_Image_AVIRIS-NG_Italie_Marina_di_Grosseto_FULL_02_SAFE_REGUL.png" width="270" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
