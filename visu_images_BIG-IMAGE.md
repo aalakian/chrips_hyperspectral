@@ -8,7 +8,7 @@
 
 **France (AVIRIS-NG), somewhere  -  size: 656 x 4168**
 
-<img src="Images/BIG-IMAGE/AVIRIS_NG_France/AVIRIS_NG_France_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_France/AVIRIS_NG_France_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_France/AVIRIS_NG_France_FULL_02_REGUL.png" width="270" />
+<img src="Images/BIG-IMAGE/AVIRIS_NG_France/AVIRIS_NG_France_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_France/AVIRIS_NG_France_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_France/AVIRIS_NG_France_FULL_02_SAFE_REGUL.png" width="270" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
@@ -44,7 +44,7 @@ Color image | CHRIPS classification map | Regularized classification map
 
 **USA (AVIRIS-NG), Houston  -  size: 669 x 6262**
 
-<img src="Images/BIG-IMAGE/AVIRIS_NG_USA_Houston/AVIRIS_NG_Houston_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_USA_Houston/AVIRIS_NG_Houston_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_USA_Houston/AVIRIS_NG_Houston_FULL_02_REGUL.png" width="270" />
+<img src="Images/BIG-IMAGE/AVIRIS_NG_USA_Houston/AVIRIS_NG_Houston_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_USA_Houston/AVIRIS_NG_Houston_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS_NG_USA_Houston/AVIRIS_NG_Houston_FULL_02_SAFE_REGUL.png" width="270" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
