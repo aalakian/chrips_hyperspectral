@@ -10,9 +10,7 @@
 
 <img src="Images/HYMAP/Garons/HYMAP_Garons_00_IMAGE.png" width="270" /> | <img src="Images/HYMAP/Garons/HYMAP_Garons_01_CLASSIF.png" width="270" /> | <img src="Images/HYMAP/Garons/HYMAP_Garons_02_REGUL.png" width="270" /> | <img src="Images/HYMAP/Garons/HYMAP_Garons_02_REGUL.png" width="270" />
 :-: | :-: | :-: | :-:
-color  | classification| Safe Regularized   | Raw Regularized 
-:-: | :-: | :-: | :-:
-image  | map           | classification map | classification map
+color image  | classification map | Safe regularized classification map | Raw regularized classification map
 
 [HYSPEX images](visu_images_HYSPEX.md)
 
