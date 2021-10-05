@@ -48,9 +48,15 @@ Color image | CHRIPS classification map | Regularized classification map
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**USA (AVIRIS-NG), Alaska, North-West  -  size: 671 x 9404**
+**USA (AVIRIS-NG), Houston, site 2  -  size: 658 x 2692**
 
-<img src="Images/BIG-IMAGE/AVIRIS-NG_Alaska_Nord_Ouest/Big_Image_AVIRIS-NG_Alaska_Nord_Ouest_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Alaska_Nord_Ouest/Big_Image_AVIRIS-NG_Alaska_Nord_Ouest_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Alaska_Nord_Ouest/Big_Image_AVIRIS-NG_Alaska_Nord_Ouest_FULL_02_SAFE_REGUL.png" width="270" />
+<img src="Images/BIG-IMAGE/AVIRIS-NG_Houston_site2/Big_Image_AVIRIS-NG_Houston_site2_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Houston_site2/Big_Image_AVIRIS-NG_Houston_site2_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Houston_site2/Big_Image_AVIRIS-NG_Houston_site2_FULL_02_SAFE_REGUL.png" width="270" />
+:-: | :-: | :-:
+Color image | CHRIPS classification map | Regularized classification map
+
+**USA (AVIRIS-NG), Cincinatti, South  -  size: 646 x 2306**
+
+<img src="Images/BIG-IMAGE/AVIRIS-NG_Cincinatti_sud/Big_Image_AVIRIS-NG_Cincinatti_sud_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Cincinatti_sud/Big_Image_AVIRIS-NG_Cincinatti_sud_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Cincinatti_sud/Big_Image_AVIRIS-NG_Cincinatti_sud_FULL_02_SAFE_REGUL.png" width="270" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
@@ -72,15 +78,9 @@ Color image | CHRIPS classification map | Regularized classification map
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-**USA (AVIRIS-NG), Cincinatti, South  -  size: 646 x 2306**
+**USA (AVIRIS-NG), Alaska, North-West  -  size: 671 x 9404**
 
-<img src="Images/BIG-IMAGE/AVIRIS-NG_Cincinatti_sud/Big_Image_AVIRIS-NG_Cincinatti_sud_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Cincinatti_sud/Big_Image_AVIRIS-NG_Cincinatti_sud_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Cincinatti_sud/Big_Image_AVIRIS-NG_Cincinatti_sud_FULL_02_SAFE_REGUL.png" width="270" />
-:-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
-
-**USA (AVIRIS-NG), Houston, site 2  -  size: 658 x 2692**
-
-<img src="Images/BIG-IMAGE/AVIRIS-NG_Houston_site2/Big_Image_AVIRIS-NG_Houston_site2_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Houston_site2/Big_Image_AVIRIS-NG_Houston_site2_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Houston_site2/Big_Image_AVIRIS-NG_Houston_site2_FULL_02_SAFE_REGUL.png" width="270" />
+<img src="Images/BIG-IMAGE/AVIRIS-NG_Alaska_Nord_Ouest/Big_Image_AVIRIS-NG_Alaska_Nord_Ouest_FULL_00_IMAGE.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Alaska_Nord_Ouest/Big_Image_AVIRIS-NG_Alaska_Nord_Ouest_FULL_01_CLASSIF.png" width="270" /> | <img src="Images/BIG-IMAGE/AVIRIS-NG_Alaska_Nord_Ouest/Big_Image_AVIRIS-NG_Alaska_Nord_Ouest_FULL_02_SAFE_REGUL.png" width="270" />
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
