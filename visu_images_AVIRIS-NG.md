@@ -258,9 +258,9 @@ Color image | CHRIPS classification map | Regularized classification map
 
 [HYMAP images](visu_images_HYMAP.md)
 
-[PRISMA images](visu_images_PRISMA.md)
+[AVIRIS-NG FULL images](visu_images_BIG-IMAGE.md)
 
-[Huge images (AVIRIS-NG)](visu_images_BIG-IMAGE.md)
+[PRISMA images](visu_images_PRISMA.md)
 
 [Back to main page](index.md)
 

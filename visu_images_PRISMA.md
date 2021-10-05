@@ -66,15 +66,15 @@ Color image | CHRIPS classification map | Regularized classification map
 :-: | :-: | :-:
 Color image | CHRIPS classification map | Regularized classification map
 
-[AVIRIS-NG images](visu_images_AVIRIS-NG.md)
-
 [HYSPEX images](visu_images_HYSPEX.md)
 
 [AISAFENIX images](visu_images_AISAFENIX.md)
 
 [HYMAP images](visu_images_HYMAP.md)
 
-[Huge images (AVIRIS-NG)](visu_images_BIG-IMAGE.md)
+[AVIRIS-NG images](visu_images_AVIRIS-NG.md)
+
+[AVIRIS-NG FULL images](visu_images_BIG-IMAGE.md)
 
 [Back to main page](index.md)
 
