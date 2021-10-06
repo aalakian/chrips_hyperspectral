@@ -6,7 +6,7 @@
 <img src="Complements/Legende_classif_ligne_v2.png" width="500" />
 </p>
 
-<u>Safe regularization</u>: 
+**Safe regularization**: 
 use of CHRIPS parameters with slightly modified thresholds <u>Raw regularization</u>:  
 
 use of CHRIPS parameters with slightly modified thresholds for classes with absorptions and spectral angle similarity (2°) for other classes 
