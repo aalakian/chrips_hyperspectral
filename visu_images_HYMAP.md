@@ -14,7 +14,7 @@
 
 <img src="Images/HYMAP/Garons/HYMAP_Garons_00_IMAGE.png" width="270" /> | <img src="Images/HYMAP/Garons/HYMAP_Garons_02_SAFE_REGUL.png" width="270" /> | <img src="Images/HYMAP/Garons/HYMAP_Garons_03_RAW_REGUL.png" width="270" />
 :-: | :-: | :-:
-Hyperspectral image: RGB composite | Classification map with safe regularization | Classification map with raw regularization
+RGB composite | Classification map with safe regularization | Classification map with raw regularization
 
 [HYSPEX images](visu_images_HYSPEX.md)
 
