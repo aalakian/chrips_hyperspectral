@@ -10,7 +10,6 @@
 
 **Raw regularization**:  use of CHRIPS parameters with slightly modified thresholds for classes with specific absorptions and spectral angle similarity (2 degrees) for other classes 
 
-Hyperspectral image: color composite | Classification map with safe regularization | Classification map with raw regularization
 **France, somewhere (ROI 1)  -  size: 598 x 914**
 
 <img src="Images/AVIRIS-NG/France/ROI3/AVIRIS-NG_France_img3_00_IMAGE.png" width="270" /> | <img src="Images/AVIRIS-NG/France/ROI3/AVIRIS-NG_France_img3_02_SAFE_REGUL.png" width="270" /> | <img src="Images/AVIRIS-NG/France/ROI3/AVIRIS-NG_France_img3_03_RAW_REGUL.png" width="270" />

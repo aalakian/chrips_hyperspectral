@@ -10,7 +10,6 @@
 
 **Raw regularization**:  use of CHRIPS parameters with slightly modified thresholds for classes with specific absorptions and spectral angle similarity (2 degrees) for other classes 
 
-Hyperspectral image: color composite | Classification map with safe regularization | Classification map with raw regularization
 **USA, New York  -  size: 1000 x 1000**
 
 <img src="Images/PRISMA/Site05_New_York/PRISMA_05_New_York_00_IMAGE.png" width="270" /> | <img src="Images/PRISMA/Site05_New_York/PRISMA_05_New_York_02_SAFE_REGUL.png" width="270" /> | <img src="Images/PRISMA/Site05_New_York/PRISMA_05_New_York_03_RAW_REGUL.png" width="270" />

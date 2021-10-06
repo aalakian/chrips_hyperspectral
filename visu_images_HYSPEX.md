@@ -10,7 +10,6 @@
 
 **Raw regularization**:  use of CHRIPS parameters with slightly modified thresholds for classes with specific absorptions and spectral angle similarity (2 degrees) for other classes 
 
-Hyperspectral image: color composite | Classification map with safe regularization | Classification map with raw regularization
 **France, Mauzac  -  size: 564 x 554**
 
 <img src="Images/HYSPEX/Mauzac/HYSPEX_Mauzac_00_IMAGE.png" width="270" /> | <img src="Images/HYSPEX/Mauzac/HYSPEX_Mauzac_02_SAFE_REGUL.png" width="270" /> | <img src="Images/HYSPEX/Mauzac/HYSPEX_Mauzac_03_RAW_REGUL.png" width="270" />
