@@ -10,11 +10,12 @@
 
 **Raw regularization**:  use of CHRIPS parameters with slightly modified thresholds for classes with specific absorptions and spectral angle similarity (2 degrees) for other classes 
 
+Hyperspectral image: color composite | Classification map with safe regularization | Classification map with raw regularization
 **France, Garons  -  size: 527 x 998**
 
 <img src="Images/HYMAP/Garons/HYMAP_Garons_00_IMAGE.png" width="270" /> | <img src="Images/HYMAP/Garons/HYMAP_Garons_02_SAFE_REGUL.png" width="270" /> | <img src="Images/HYMAP/Garons/HYMAP_Garons_03_RAW_REGUL.png" width="270" />
 :-: | :-: | :-:
-Hyperspectral image: color composite | Classification map with safe regularization | Classification map with raw regularization
+&nbsp;&nbsp;Hyperspectral image: &nbsp;&nbsp;&nbsp; color composite | Classification map with safe regularization | Classification map with raw regularization
 
 [HYSPEX images](visu_images_HYSPEX.md)
 
