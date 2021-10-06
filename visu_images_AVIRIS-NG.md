@@ -6,7 +6,9 @@
 <img src="Complements/Legende_classif_ligne_v2.png" width="500" />
 </p>
 
-<u>Safe regularization</u>: use of CHRIPS parameters with slightly modified thresholds <u>Raw regularization</u>:  use of CHRIPS parameters with slightly modified thresholds for classes with absorptions and spectral angle similarity (2°) for other classes 
+**Safe regularization**: use of CHRIPS parameters with slightly modified thresholds 
+**Raw regularization**:  use of CHRIPS parameters with slightly modified thresholds for classes with absorptions and spectral angle similarity (2°) for other classes 
+
 **France, somewhere (ROI 1)  -  size: 575 x 899**
 
 <img src="Images/AVIRIS-NG/France/ROI1/AVIRIS-NG_France_img1_00_IMAGE.png" width="270" /> | <img src="Images/AVIRIS-NG/France/ROI1/AVIRIS-NG_France_img1_02_SAFE_REGUL.png" width="270" /> | <img src="Images/AVIRIS-NG/France/ROI1/AVIRIS-NG_France_img1_03_RAW_REGUL.png" width="270" />

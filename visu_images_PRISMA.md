@@ -6,7 +6,9 @@
 <img src="Complements/Legende_classif_ligne_v2.png" width="500" />
 </p>
 
-<u>Safe regularization</u>: use of CHRIPS parameters with slightly modified thresholds <u>Raw regularization</u>:  use of CHRIPS parameters with slightly modified thresholds for classes with absorptions and spectral angle similarity (2°) for other classes 
+**Safe regularization**: use of CHRIPS parameters with slightly modified thresholds 
+**Raw regularization**:  use of CHRIPS parameters with slightly modified thresholds for classes with absorptions and spectral angle similarity (2°) for other classes 
+
 **USA, New York  -  size: 1000 x 1000**
 
 <img src="Images/PRISMA/Site05_New_York/PRISMA_05_New_York_00_IMAGE.png" width="270" /> | <img src="Images/PRISMA/Site05_New_York/PRISMA_05_New_York_02_SAFE_REGUL.png" width="270" /> | <img src="Images/PRISMA/Site05_New_York/PRISMA_05_New_York_03_RAW_REGUL.png" width="270" />
