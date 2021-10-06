@@ -7,6 +7,7 @@
 </p>
 
 **Safe regularization**: use of CHRIPS parameters with slightly modified thresholds 
+
 **Raw regularization**:  use of CHRIPS parameters with slightly modified thresholds for classes with absorptions and spectral angle similarity (2°) for other classes 
 
 **France, Garons  -  size: 527 x 998**
