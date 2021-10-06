@@ -26,23 +26,14 @@ RGB composite | CM with safe regularization | CM with raw regularization
 RGB composite | CM with safe regularization | CM with raw regularization
 
 
-
-
-
-<img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="270" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="270" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="270" />
+<img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="320" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="320" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="320" />
 :-: | :-: | :-:
-Classification map with safe regularization | Classification map with safe regularization | Classification map with raw regularization
+RGB composite | CM with safe regularization | CM with raw regularization
 
 
-
-<img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="270" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="270" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="270" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="270" />
-:-: | :-: | :-: | :-:
-roro | Hyperspectral image: color composite | Classification map with safe regularization | Classification map with raw regularization
-
-
-<img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="270" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="270" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="270" />
+<img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="340" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="340" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="340" />
 :-: | :-: | :-:
-aaa | bbb | ccc
+RGB composite | CM with safe regularization | CM with raw regularization
 
 
 
