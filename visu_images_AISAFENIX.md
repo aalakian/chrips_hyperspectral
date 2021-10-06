@@ -12,21 +12,6 @@
 
 **France, Mauzac - suburban  -  size: 512 x 512**
 
-<img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="300" />
-:-: | :-: | :-:
-Hyperspectral image: color composite | Classification map with safe regularization | Classification map with raw regularization
-
-
-<img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="300" />
-:-: | :-: | :-:
-Classification map with safe regularization | Hyperspectral image: color composite | Classification map with raw regularization
-
-
-<img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="300" />
-:-: | :-: | :-:
-RGB composite | CMSF | CMRF
-
-
 
 <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="300" />
 :-: | :-: | :-:
@@ -36,15 +21,15 @@ aaaaa
 
 <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="300" />
 :-: | :-: | :-:
-&nbsp;&nbsp;Hyperspectral image: color composite&nbsp;&nbsp; | Classification map with safe regularization | Classification map with raw regularization
+&nbsp;&nbsp;Hyperspectral image: color composite&nbsp;&nbsp;&nbsp; | Classification map with safe regularization | Classification map with raw regularization
 
 bbbbb
 
 <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="300" />
 :-: | :-: | :-:
-&nbsp;&nbsp;&nbsp;&nbsp;Hyperspectral image: color composite&nbsp;&nbsp;&nbsp;&nbsp; | Classification map with safe regularization | Classification map with raw regularization
+&nbsp;&nbsp;Hyperspectral image: &nbsp;&nbsp;&nbsp; color composite | Classification map with safe regularization | Classification map with raw regularization
 
-
+ccc
 
 
 
