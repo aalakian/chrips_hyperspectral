@@ -33,16 +33,22 @@ ccc
 
 <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="300" />
 :-: | :-: | :-:
-&nbsp;&nbsp;Hyperspectral image: &nbsp;&nbsp;&nbsp; color composite | Classification map &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with safe regularization | Classification map &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with raw regularization
+&nbsp;&nbsp;Hyperspectral image: &nbsp;&nbsp;&nbsp; color composite | Classification map &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with safe regularization | Classification map &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with raw regularization
+
 
 ddd
 
+<img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="300" />
+:-: | :-: | :-:
+&nbsp;&nbsp;Hyperspectral image: &nbsp;&nbsp;&nbsp; color composite | Classification map &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with safe regularization | Classification map &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with raw regularization
+
+eee
 
 <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="300" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="300" />
 :-: | :-: | :-:
-&nbsp;&nbsp;Hyperspectral image: &nbsp;&nbsp;&nbsp; color composite | Classification map &nbsp;&nbsp;&nbsp;&nbsp;with safe regularization | Classification map &nbsp;&nbsp;&nbsp;&nbsp; with raw regularization
+&nbsp;&nbsp;Hyperspectral image: &nbsp;&nbsp;&nbsp; color composite | Classification map &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with safe regularization | Classification map &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with raw regularization
 
-eee
+fff
 
 
 
