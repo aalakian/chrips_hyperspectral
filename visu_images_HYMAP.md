@@ -6,6 +6,7 @@
 <img src="Complements/Legende_classif_ligne_v2.png" width="500" />
 </p>
 
+<u>Safe regularization</u>: use of CHRIPS parameters with slightly modified thresholds <u>Raw regularization</u>:  use of CHRIPS parameters with slightly modified thresholds for classes with absorptions and spectral angle similarity (2°) for other classes 
 **France, Garons  -  size: 527 x 998**
 
 <img src="Images/HYMAP/Garons/HYMAP_Garons_00_IMAGE.png" width="270" /> | <img src="Images/HYMAP/Garons/HYMAP_Garons_02_SAFE_REGUL.png" width="270" /> | <img src="Images/HYMAP/Garons/HYMAP_Garons_03_RAW_REGUL.png" width="270" />

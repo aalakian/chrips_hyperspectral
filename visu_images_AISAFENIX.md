@@ -6,6 +6,7 @@
 <img src="Complements/Legende_classif_ligne_v2.png" width="500" />
 </p>
 
+<u>Safe regularization</u>: use of CHRIPS parameters with slightly modified thresholds <u>Raw regularization</u>:  use of CHRIPS parameters with slightly modified thresholds for classes with absorptions and spectral angle similarity (2°) for other classes 
 **France, Mauzac - suburban  -  size: 512 x 512**
 
 <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="270" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="270" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="270" />
