@@ -8,25 +8,25 @@
 
 **Safe regularization**: use of CHRIPS parameters with slightly modified thresholds for all classes 
 
-**Raw regularization**:  use of CHRIPS parameters with slightly modified thresholds for classes with specific absorptions and spectral angle similarity (2°) for other classes 
+**Raw regularization**:  use of CHRIPS parameters with slightly modified thresholds for classes with specific absorptions and spectral angle similarity (2Â°) for other classes 
 
 **France, Mauzac  -  size: 564 x 554**
 
 <img src="Images/HYSPEX/Mauzac/HYSPEX_Mauzac_00_IMAGE.png" width="270" /> | <img src="Images/HYSPEX/Mauzac/HYSPEX_Mauzac_02_SAFE_REGUL.png" width="270" /> | <img src="Images/HYSPEX/Mauzac/HYSPEX_Mauzac_03_RAW_REGUL.png" width="270" />
 :-: | :-: | :-:
-Color image | Classification map with safe regularization | Classification map with raw regularization
+------- Color image ------- | Classification map with safe regularization | Classification map with raw regularization
 
 **France, Fauga  -  size: 1027 x 950**
 
 <img src="Images/HYSPEX/Fauga08_NORD/HYSPEX_Fauga08_NORD_00_IMAGE.png" width="270" /> | <img src="Images/HYSPEX/Fauga08_NORD/HYSPEX_Fauga08_NORD_02_SAFE_REGUL.png" width="270" /> | <img src="Images/HYSPEX/Fauga08_NORD/HYSPEX_Fauga08_NORD_03_RAW_REGUL.png" width="270" />
 :-: | :-: | :-:
-Color image | Classification map with safe regularization | Classification map with raw regularization
+----- Color image ----- | Classification map with safe regularization | Classification map with raw regularization
 
 **France, Fauga - town  -  size: 241 x 303**
 
 <img src="Images/HYSPEX/Fauga_town_XC/HYSPEX_Fauga_Town_Denoised_00_IMAGE.png" width="270" /> | <img src="Images/HYSPEX/Fauga_town_XC/HYSPEX_Fauga_Town_Denoised_02_SAFE_REGUL.png" width="270" /> | <img src="Images/HYSPEX/Fauga_town_XC/HYSPEX_Fauga_Town_Denoised_03_RAW_REGUL.png" width="270" />
 :-: | :-: | :-:
-Color image | Classification map with safe regularization | Classification map with raw regularization
+---------- Color image ---------- | Classification map with safe regularization | Classification map with raw regularization
 
 **France, Fauga - Fermat  -  size: 261 x 231**
 
