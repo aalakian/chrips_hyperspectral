@@ -8,9 +8,9 @@
 
 **France, Mauzac - suburban  -  size: 512 x 512**
 
-<img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="270" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_01_CLASSIF.png" width="270" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_REGUL.png" width="270" />
+<img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_00_IMAGE.png" width="270" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_02_SAFE_REGUL.png" width="270" /> | <img src="Images/AISAFENIX/Mauzac_suburban/AISAFENIX_subset_periurbain_55cm_03_RAW_REGUL.png" width="270" />
 :-: | :-: | :-:
-Color image | CHRIPS classification map | Regularized classification map
+Color image | CHRIPS classification map with safe regularization | classification map with raw regularization
 
 [HYSPEX images](visu_images_HYSPEX.md)
 
