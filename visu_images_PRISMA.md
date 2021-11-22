@@ -34,6 +34,12 @@
 :-: | :-: | :-:
 &nbsp;&nbsp;Hyperspectral image: &nbsp;&nbsp;&nbsp; color composite | Classification map with safe regularization | Classification map with raw regularization
 
+**France, Bordeaux  -  size: 1000 x 1000**
+
+<img src="Images/PRISMA/Site14_Bordeaux/PRISMA_14_Bordeaux_00_IMAGE.png" width="270" /> | <img src="Images/PRISMA/Site14_Bordeaux/PRISMA_14_Bordeaux_02_SAFE_REGUL.png" width="270" /> | <img src="Images/PRISMA/Site14_Bordeaux/PRISMA_14_Bordeaux_03_RAW_REGUL.png" width="270" />
+:-: | :-: | :-:
+&nbsp;&nbsp;Hyperspectral image: &nbsp;&nbsp;&nbsp; color composite | Classification map with safe regularization | Classification map with raw regularization
+
 **France, Fos sur Mer  -  size: 1000 x 1000**
 
 <img src="Images/PRISMA/SiteA_Fos_sur_Mer/PRISMA_02_Fos_sur_Mer_00_IMAGE.png" width="270" /> | <img src="Images/PRISMA/SiteA_Fos_sur_Mer/PRISMA_02_Fos_sur_Mer_02_SAFE_REGUL.png" width="270" /> | <img src="Images/PRISMA/SiteA_Fos_sur_Mer/PRISMA_02_Fos_sur_Mer_03_RAW_REGUL.png" width="270" />
